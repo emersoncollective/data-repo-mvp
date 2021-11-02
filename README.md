@@ -17,13 +17,14 @@ The Immigration Data Hub (the Data Repo) is ................
 
 ## Data Scraping Inventory 
 
-* CBP
-    * Encounters
-* USCIS
-    * Visas
-    * ...
-* Census
-* ... 
+| Dataset Name      | Source | Updated Regularly? | Original URL      | Data Repo Location |
+| ----------- | ----------- | ----------- | ----------- |
+| Encounters      | CBP       | Yes | Header      | Title       |
+| USCIS   | Visas        | Yes | Header      | Title       |
+| (name)   | US Census        | No? | Header      | Title       |
+| (name)   | US Census        | No? | Header      | Title       |
+
+
 
 ## Technical Approach Inventory 
 * Scraping Tableau Dashboard Data
@@ -38,4 +39,8 @@ Link to useful functions for scraping and extracting data [Functional Library](T
 
 
 ## License 
+    TBD 
+
+
+# How to Cite Us 
     TBD 
