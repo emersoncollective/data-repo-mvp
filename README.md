@@ -20,7 +20,7 @@ The Immigration Data Hub (the Data Repo) is ................
 | Dataset Name      | Source | Updated Regularly? | Original URL      | Data Repo Location |
 | ----------- | ----------- | --- | ----------- | ----------- |
 | Encounters      | CBP       | Yes | Header      | Title       |
-| USCIS   | Visas        | Yes | Header      | Title       |
+| Visa Issuances   | USCIS        | Yes | Header      | Title       |
 | (name)   | US Census        | No? | Header      | Title       |
 | (name)   | US Census        | No? | Header      | Title       |
 
