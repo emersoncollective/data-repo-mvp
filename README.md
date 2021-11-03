@@ -23,13 +23,14 @@ data-repo-mvp
 
 ## Data Scraping Inventory 
 
-* CBP
-    * Encounters
-* USCIS
-    * Visas
-    * ...
-* Census
-* ... 
+| Dataset Name      | Source | Updated Regularly? | Original URL      | Data Repo Location | Status| 
+| ----------- | ----------- | --- | ----------- | ----------- | -- | 
+| Encounters      | CBP       | Yes | Header      | Title       | (status) |
+| Visa Issuances   | USCIS        | Yes | Header      | Title       | (status) |
+| (name)   | US Census        | No? | Header      | Title       | (status) |
+| (name)   | US Census        | No? | Header      | Title       | (status) |
+
+
 
 ## Technical Approach Inventory 
 * Scraping Tableau Dashboard Data
@@ -47,3 +48,8 @@ Link to useful functions for scraping and extracting data [Functional Library](T
     TBD 
 
 
+<<<<<<< HEAD
+=======
+# How to Cite Us 
+    TBD 
+>>>>>>> 68c557a4e85f1e96517001e63b0356ed172dfb26
