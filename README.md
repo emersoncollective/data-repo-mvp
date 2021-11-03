@@ -48,8 +48,3 @@ Link to useful functions for scraping and extracting data [Functional Library](T
     TBD 
 
 
-<<<<<<< HEAD
-=======
-# How to Cite Us 
-    TBD 
->>>>>>> 68c557a4e85f1e96517001e63b0356ed172dfb26
