@@ -12,7 +12,13 @@ The Immigration Data Hub (the Data Repo) is ................
 
 ## Repository Structure 
 ```
-    todo 
+data-repo-mvp
+ ┣ data: Holds raw and processed data used in notebooks. 
+ ┃ ┣ extracted_data: Processed or semi-processed data generated from notebooks. 
+ ┃ ┗ raw_source_files: Raw files downloaded from sources, for instance PDF files. 
+ ┣ notebooks: Jupyter/Colab notebooks used to extract/scrape/download data. 
+ ┣ src: Folder to hold generic code used in the notebooks for specific data tasks. 
+ ┗ README.md
 ```
 
 ## Data Scraping Inventory 
@@ -39,3 +45,5 @@ Link to useful functions for scraping and extracting data [Functional Library](T
 
 ## License 
     TBD 
+
+
