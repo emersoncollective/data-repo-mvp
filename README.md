@@ -39,7 +39,7 @@ data-repo-mvp
 
 
 ## Function Library
-Link to useful functions for scraping and extracting data [Functional Library](TBD)
+Link to useful functions for scraping and extracting data [Function Library](TBD)
 
 ## Other Useful Resources 
 
