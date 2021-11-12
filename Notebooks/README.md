@@ -9,16 +9,16 @@ These are the same notebooks as above but organized based on the technical appro
 | Data Source      | File | 
 | ----------- | ----------- |
 |   **Scraping Tableau Dashboards**    |      |
-|    | Encounters Data [.ipynb](CBP-Encounters.ipynb) [colab](https://colab.research.google.com/drive/1siHcEK6zTL5y6RLWkHpzZjIQVyazE7_C?usp=sharing)          |
+|    | Encounters Data [.ipynb](CBP-Encounters.ipynb)       |
 | | |
 | **Downloading / Extracting Data from PDFs** | 
-| |DOJ Asylum Decisions [.ipynb](DOJ-Asylum-Decisions.ipynb) [colab](https://colab.research.google.com/drive/1q1zo_fhuxik69f03yg0W7xHGMfusiXky?usp=sharing) | 
-| | CBP Apprehensions Data [ADVANCED] [.ipynb](CBP-Apprehensions.ipynb) [colab](https://colab.research.google.com/drive/1PgBM8B--PjGUC6sSCcyWasrDlGS3RhdG?usp=sharing)| 
-| | State Dept. Monthly Visa Statistics [.ipynb](STATE-DEPT-Monthly-Visa-Stats.ipynb) [colab](https://colab.research.google.com/drive/1iu43SDzCN16MURmy_w7qjE0PCGmI6tX9?usp=sharing)
+| |DOJ Asylum Decisions [.ipynb](DOJ-Asylum-Decisions.ipynb) | 
+| | CBP Apprehensions Data [ADVANCED] [.ipynb](CBP-Apprehensions.ipynb) | 
+| | State Dept. Monthly Visa Statistics [.ipynb](STATE-DEPT-Monthly-Visa-Stats.ipynb) 
 | **Scraping HTML Tables from Websites**  |
 | | ...|
 | **Processing Data in Excel** | |
-| | USCIS Credible Fear Spreadsheets [.ipynb](USCIS-Credible-Fear-Spreadsheets.ipynb) [colab](https://drive.google.com/file/d/1PdmzI49Tyb3mvzImJbqe_IfP8TUI_9Vj/view?usp=sharing)| 
+| | USCIS Credible Fear Spreadsheets [.ipynb](USCIS-Credible-Fear-Spreadsheets.ipynb) | 
 
 
 <br>
