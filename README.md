@@ -112,7 +112,7 @@ data-repo-mvp
 ## Data Inventory 
 
 | Dataset Name      | Source | Updated Regularly? | Original URL      | See Data |See Code| Status |
-| ----------- | ----------- | --- | ----------- | ----------- | -- | 
+| ----------- | ----------- | --- | ----------- | ----------- | -- | --|
 | Encounters (until 2019)     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset]()       |[Code]()       | (status) |
 | Encounters (after 2019)     | CBP       | Yes | [source]()      | [Dataset]()       | (status) |
 | Visa Issuances   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
