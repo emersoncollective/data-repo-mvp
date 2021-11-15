@@ -1,11 +1,16 @@
 # The Immigration Data Repository 
 
 ## Background 
-The Immigration Data Hub (the Data Repo) is ................
-* Share code to scrape specific sample of datasets from
-* Provide those data samples from
-* Highlight how code can be applied to other datasets to allow subject matter experts to obtain the data they need to do their work with
-* One can access the downloaded files directly by seeing 
+The Immigration Data Repo is powered by the Emerson Collective. This is a place where you can find immigration datasets that have been collected by various methods, mostly from public sources. 
+
+We hope you can not only find datasets to use here, but to also...
+* download the data
+* get a sense of how the data was collected
+* learn how to use, and adapt, code to procure and format datasets
+* connect and engage with a community of trusted peers to learn from/with
+* contribute any code and/or datasets you may wish to the community
+
+Have any questions? Hit us up on the Data Repo's [Slack Channel]
 
 
 ## Getting Started 
@@ -26,8 +31,8 @@ The Immigration Data Hub (the Data Repo) is ................
 Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. 
 
 
-#### **If you are new to Python and Jupyter Notebooks** else [go here](#if-you-are-a-coder-and-comfortable-with-python) <br>
-This code can be run in a number of different ways but we recommend utilizing google colab notebooks initially to review and run this code. 
+#### **If you are new to Python and Jupyter Notebooks** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
+This code can be run in a number of different ways but we recommend utilizing Google Colab notebooks initially to review and run this code. 
 
 
 Note: Please keep this browser window open on the side to follow these directions and see additional contextual information regarding the structure of the repo and information on the datasets and code included.
@@ -106,12 +111,13 @@ data-repo-mvp
 
 ## Data Inventory 
 
-| Dataset Name      | Source | Updated Regularly? | Original URL      | See Data | Status| 
+| Dataset Name      | Source | Updated Regularly? | Original URL      | See Data |See Code| Status |
 | ----------- | ----------- | --- | ----------- | ----------- | -- | 
-| Encounters      | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | Title       | (status) |
-| Visa Issuances   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | Title       | (status) |
-| (name)   | US Census        | No? | Header      | Title       | (status) |
-| (name)   | US Census        | No? | Header      | Title       | (status) |
+| Encounters (until 2019)     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset]()       |[Code]()       | (status) |
+| Encounters (after 2019)     | CBP       | Yes | [source]()      | [Dataset]()       | (status) |
+| Visa Issuances   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
+| (name)   | US Census        | No? | Header      | [Dataset]()       |[code]()       | (status) |
+| (name)   | US Census        | No? | Header      | [Dataset]()       |[code]()       | (status) |
 
 
 
