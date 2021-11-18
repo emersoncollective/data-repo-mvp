@@ -18,8 +18,8 @@ Have any questions? Hit us up on the Data Repo's [Slack Channel]
 ### 1. Are you just looking for the data?
  
  See the [Data Inventory](#data-inventory) table. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
- * We update the data every 
- <span style="color:red">**!! TBD-TODO !!**</span> 
+ * We update select datasets as new data gets released 
+ <span style="color:red">**!! TBD - not yet true but hopefully soon!!**</span> 
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
  We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
@@ -115,9 +115,9 @@ data-repo-mvp
 | ----------- | ----------- | --- | ----------- | ----------- | -- | --|
 | Encounters (until 2019)     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset]()       |[Code]()       | (status) |
 | Encounters (after 2019)     | CBP       | Yes | [source]()      | [Dataset]()       | (status) |
-| Visa Issuances   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
-| (name)   | US Census        | No? | Header      | [Dataset]()       |[code]()       | (status) |
-| (name)   | US Census        | No? | Header      | [Dataset]()       |[code]()       | (status) |
+| Visa Issuances (monthly)   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
+| Asylum Decisions (by Nationality)   | DOJ        | No? | Header      | [Dataset]()       |[code]()       | (status) |
+| Credible Fear   | USCIS       | No? | Header      | [Dataset]()       |[code]()       | (status) |
 
 
 
