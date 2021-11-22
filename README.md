@@ -53,7 +53,7 @@ Note: Please keep this browser window open on the side to follow these direction
         <img src="./misc/images/mount_gdrive.png" width="330" height="100">
 
     * This should launch a window here you can authorize colab to access your google drive, or create a link where you authorize the drive and then paste an authorization code into an area below the cell. 
-   *  Once authorized you should be able to see you drive files in the file explorer to the left of the screen by clicking on the small folder icon. Click on MyDrive (or any other name it might be), then navigate to where you saved the `data-repo-mvp` folder, right click and select **Copy path** to that folder. 
+    *  Once authorized you should be able to see you drive files in the file explorer to the left of the screen by clicking on the small folder icon. Click on MyDrive (or any other name it might be), then navigate to where you saved the `data-repo-mvp` folder, right click and select **Copy path** to that folder. 
 
         <img src="./misc/images/copy_path.png" width="330" height="230">
 
@@ -130,4 +130,3 @@ data-repo-mvp
 
 **Contact**: mdowd@emersoncollective.com, ada@emersoncollective.com, dat@emersoncollective.com
 
-### My Multi Word Header
