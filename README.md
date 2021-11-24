@@ -31,7 +31,7 @@ Have any questions? Hit us up on the Data Repo's [Slack Channel]
 Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. 
 
 
-#### **If you are new to Python and Jupyter Notebooks then continue with the instructions below ** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
+#### **If you are new to Python and Jupyter Notebooks then continue with the instructions below** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
 This code can be run in a number of different ways but we recommend using a custom coding environment we have setup for this project. You can begin by visiting [JupyterHub](http://104.198.52.81/). Login with the username and password we have provided. 
 
 <br>
@@ -88,7 +88,7 @@ If you run into any issues or problems please don't hesitate to reach out on the
 <br>
 
 #### **If you are a coder and comfortable with Python**<br>
-Then we suggest just cloning this repository and visiting the [notebooks folder](notebooks). The documentation in the notebooks folder should provide all information needed. Note it is assumed you have the standard python scientific computing libraries already installed. Other uncommon libraries that are used are `pip install`'d within the notebooks.  
+Then we suggest just cloning this repository and visiting the [notebooks folder](notebooks). The documentation in the notebooks folder should provide all information needed. See the `requirements.txt` files for a list of required libraries.
 
 ----------------------------------------------
 
