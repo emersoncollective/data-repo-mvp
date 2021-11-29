@@ -34,14 +34,14 @@ Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Pyth
 
 So you are new to Python. Welcome! We would love to help you learn a new skill. 
 
-<span style="color:red">
 ** We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this **
 
-We highly recommend taking some time to go to (Placeholder Python Learning Place)[] and completing the first 2 chapters to understand the basics Python syntax. This should take no more than a few hours of your time.
+ 
+We highly recommend taking some time to go to [Placeholder Python Learning Place]() and completing the first 2 chapters to understand the basics Python syntax. This should take no more than a few hours of your time.
+ 
  
 Once you have completed this, you can come back here to resume your learning. You will find examples relevant to immigration space that you can run, or even modify and adapt to a different dataset!
 
-</span> 
 
 
 
