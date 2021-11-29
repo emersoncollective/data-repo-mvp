@@ -10,7 +10,7 @@ You can use this repositoty to datasets to use here, but to also...
 * connect and engage with a community of trusted peers to learn from/with
 * contribute any code and/or datasets you may wish to the community
 
-Have any questions? Feel free to [get in touch with us!](#contactus)
+Have any questions? Feel free to [get in touch with us!](#contact-us)
 
 
 ## Getting Started 
@@ -45,7 +45,7 @@ Once you have completed this, you can come back here to resume your learning. Yo
 
 
 
-#### **If you are new to Jupyter Notebooks, continue with the instructions below** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
+#### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
 This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annoted text, allowing for readabilty and sharing.
 
 We have created a custom coding environment we have setup. This will eliminate the need to manage a Python environment on your local device computer. You can begin by visiting [JupyterHub](http://104.198.52.81/). Login with the username and password we have provided. 
