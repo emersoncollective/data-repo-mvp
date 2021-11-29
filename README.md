@@ -1,16 +1,16 @@
 # The Immigration Data Repository 
 
 ## Background 
-The Immigration Data Repo is powered by the Emerson Collective. This is a place where you can find immigration datasets that have been collected by various methods, mostly from public sources. 
+The Immigration Data Repo is powered by the Emerson Collective. This is a place where we post immigration related datasets that have been collected (typically by us). The data comes mostly from public sources. 
 
-We hope you can not only find datasets to use here, but to also...
+You can use this repositoty to datasets to use here, but to also...
 * download the data
 * get a sense of how the data was collected
-* learn how to use, and adapt, code to procure and format datasets
+* learn how to use, and adapt, code to procure and format immigration datasets from the web
 * connect and engage with a community of trusted peers to learn from/with
 * contribute any code and/or datasets you may wish to the community
 
-Have any questions? Hit us up on the Data Repo's [Slack Channel]
+Have any questions? Feel free to [get in touch with us!](#contact-us)
 
 
 ## Getting Started 
@@ -22,7 +22,7 @@ Have any questions? Hit us up on the Data Repo's [Slack Channel]
  <span style="color:red">**!! TBD - not yet true but hopefully soon!!**</span> 
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
- We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
+We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
 
 <br>
 
@@ -30,9 +30,22 @@ Have any questions? Hit us up on the Data Repo's [Slack Channel]
 
 Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. 
 
+#### **If you are new to Python, continue with the instructions below** else [you can skip this section](#If-you-are-new-to-Jupyter Notebooks-continue-with-the instructions below) <br>
 
-#### **If you are new to Python and Jupyter Notebooks then continue with the instructions below** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
-This code can be run in a number of different ways but we recommend using a custom coding environment we have setup for this project. You can begin by visiting [JupyterHub](http://104.198.52.81/). Login with the username and password we have provided. 
+So you are new to Python. Welcome! We would love to help you learn a new skill. 
+
+**NOTE: We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this**
+
+We highly recommend taking some time to go to [Placeholder Python Learning Place]() and completing the first 2 chapters to understand the basics Python syntax. This should take no more than a few hours of your time.
+ 
+ 
+Once you have completed this, you can come back here to resume your learning. You will find examples relevant to immigration space that you can run, or even modify and adapt to a different dataset!
+
+
+#### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
+This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annoted text, allowing for readabilty and sharing.
+
+We have created a custom coding environment we have setup. This will eliminate the need to manage a Python environment on your local device computer. You can begin by visiting [JupyterHub](http://104.198.52.81/). Login with the username and password we have provided. 
 
 <br>
 
@@ -81,7 +94,7 @@ You can either click each play button or use the keyboard shortcut of SHIFT + EN
 
 We are excited for you to be able to work with these notebooks, see how the concepts and strategies within could be applied to your work more broadly. We suggest starting with those notebooks that are most relevant to you first. 
 
-If you run into any issues or problems please don't hesitate to reach out on the [Slack Channel - TODO](link) or via email mdowd@emersoncollective.com, dat@emersoncollective.com.
+If you run into any issues or problems please don't hesitate to [let us know](#contactus).
 
 
 
@@ -114,11 +127,10 @@ data-repo-mvp
 
 | Dataset Name      | Source | Updated Regularly? | Original URL      | See Data |See Code| Status |
 | ----------- | ----------- | --- | ----------- | ----------- | -- | --|
-| Encounters (until 2019)     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset]()       |[Code]()       | (status) |
-| Encounters (after 2019)     | CBP       | Yes | [source]()      | [Dataset]()       | (status) |
-| Visa Issuances (monthly)   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
-| Asylum Decisions (by Nationality)   | DOJ        | No? | Header      | [Dataset]()       |[code]()       | (status) |
-| Credible Fear   | USCIS       | No? | Header      | [Dataset]()       |[code]()       | (status) |
+| Encounters     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset](https://github.com/emersoncollective/data-repo-mvp/blob/main/data/extracted_data/cbp-apprehensions-nov2021.csv)       |[Code]()       | (status) |
+| Asylum Decisions (by Nationality)   | DOJ        | No? | Header      | [Dataset](https://github.com/emersoncollective/data-repo-mvp/blob/main/data/extracted_data/doj_eoir_asylym_decisions.csv)       |[code]()       | (status) |
+<!-- | Visa Issuances (monthly)   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
+| Credible Fear   | USCIS       | No? | Header      | [Dataset]()       |[code]()       | (status) | -->
 
 
 
@@ -135,5 +147,8 @@ data-repo-mvp
 
 --------------------------------
 
-**Contact**: mdowd@emersoncollective.com, ada@emersoncollective.com, dat@emersoncollective.com
+# Contact Us: 
 
+Have questions? See an issue? Want help? Don't hesitate to contact us!
+mdowd@emersoncollective.com, ada@emersoncollective.com, dat@emersoncollective.com
+**TO DO: make a general email for this product, or use the products team email (tech_products@emersoncollective.com)**
