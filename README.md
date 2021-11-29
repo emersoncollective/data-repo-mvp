@@ -22,7 +22,7 @@ Have any questions? Feel free to [get in touch with us!](#contact-us)
  <span style="color:red">**!! TBD - not yet true but hopefully soon!!**</span> 
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
- We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
+We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
 
 <br>
 
@@ -34,7 +34,7 @@ Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Pyth
 
 So you are new to Python. Welcome! We would love to help you learn a new skill. 
 
-**We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this**
+**NOTE: We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this**
 
 We highly recommend taking some time to go to [Placeholder Python Learning Place]() and completing the first 2 chapters to understand the basics Python syntax. This should take no more than a few hours of your time.
  
