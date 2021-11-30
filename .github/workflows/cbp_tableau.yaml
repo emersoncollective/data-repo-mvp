@@ -19,7 +19,10 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute scraping script
-        run:  ./src/extract_tablaeu.sh
+        run: |
+         chmod +x ./src/extract_tablaeu.sh
+         ./src/extract_tablaeu.sh
+        shell: bash
           
       - name: commit files
         run: |
