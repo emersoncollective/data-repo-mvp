@@ -54,10 +54,10 @@ Pandas and Data Science
 * https://github.com/justmarkham/pandas-videos
 
 
-
-
 #### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
 This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annotated text, allowing for readability and sharing.
+* https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+* https://realpython.com/jupyter-notebook-introduction/
 
 We have created a custom coding environment where you can run these notebooks. This will eliminate the need to manage a Python environment on your local computer. You can begin by visiting our [JupyterHub](TBD). Login with the username and password we have provided. 
 <br>
