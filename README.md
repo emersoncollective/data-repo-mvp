@@ -91,7 +91,7 @@ If you run into any issues or problems please don't hesitate to [let us know](#c
 <br>
 
 #### **If you are a coder and comfortable with Python**<br>
-Then we suggest just cloning this repository, installing required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks folder should provide all information needed. See the `requirements.txt` files for a list of required libraries.
+Then we suggest just cloning this repository, installing required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks should provide all information needed. 
 
 ----------------------------------------------
 
