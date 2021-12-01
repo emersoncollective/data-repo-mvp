@@ -111,6 +111,7 @@ def get_dashboard_data(
     failed_combination = []
     tableau_dataframe = pd.DataFrame()
     for filter_combination in all_filter_combinations:
+        time.sleep(10)
         print("Attempting Filter Combination", filter_combination)
         ts = TS()
         ts.loads(url)
