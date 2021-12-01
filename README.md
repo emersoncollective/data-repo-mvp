@@ -33,14 +33,27 @@ Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Pyth
 
 #### **If you are new to Python, continue with the instructions below** else [you can skip this section](#If-you-are-new-to-Jupyter Notebooks-continue-with-the instructions below) <br>
 
-So you are new to Python. Welcome! We would love to help you learn a new skill. 
+So you are new to Python. Welcome! We would love to help you learn a new skill. Thankfully there are many resources online that can help get up to speed with Python quickly. 
+
 
 **NOTE: We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this**
 
-We highly recommend taking some time to go to [Placeholder Python Learning Place]() and completing the first 2 chapters to understand the basics Python syntax. This should take no more than a few hours of your time.
- 
- 
+We recommend going through the tutorials at [learnpython.org](https://www.learnpython.org/en/Welcome). You should run through all exercises in **Learn the Basics**, and the **Pandas Basics** tutorial as well. This should take no more than a few hours of your time. If you would like to explore some additional resources these are also free and potentially useful.
+
 Once you have completed this, you can come back here to resume your learning. You will find examples relevant to immigration space that you can run, or even modify and adapt to a different dataset!
+
+**Additional Resources**
+Python
+* [datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/)
+* [Codeacademy](https://www.codecademy.com/learn/learn-python-3)
+
+Pandas and Data Science
+* [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/) **book** -Highly Recommended-
+* https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/ [TODO We can host]
+* https://github.com/justmarkham/pandas-videos
+
+
 
 
 #### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
