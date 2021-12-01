@@ -1,5 +1,8 @@
 name: scrape-cbp-encounters-tableau
-on: [workflow_dispatch]
+on: 
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 0 12 ? * TUE *'
 jobs:
   build:
     runs-on: ubuntu-latest
