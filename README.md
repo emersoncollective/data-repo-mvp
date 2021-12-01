@@ -12,6 +12,7 @@ You can use this repository to datasets to use here, but to also...
 
 Have any questions? Feel free to [get in touch with us!](#contact-us)
 
+<br>
 
 ## Getting Started 
 
@@ -52,11 +53,13 @@ We have created a custom coding environment where you can run these notebooks. T
 
 Once you have logged in an environment will be started that contains the code notebooks we have created. It may take a couple of minutes for the environment to start up. 
 <br>
-<img src="./misc/images/jupyterhub_startup.png" >
+<img src="./misc/images/jupyterhub_startup.png" width="1000" >
+<br>
 <br>
 Eventually you will be presented with the following screen. 
 <br>
-<img src="./misc/images/jupyterhub_enviro.png" >
+<br>
+<img src="./misc/images/jupyterhub_enviro.png" width="1000">
 <br>
 There will be 2 folders, `data-repo` and `lost+found`, you can ignore the `lost+found` folder, but the `data-repo` folder contains the notebooks, data and code we are interested in. Inside `data-repo` there is a folder called `notebooks` please open up this folder. 
      
@@ -88,7 +91,7 @@ If you run into any issues or problems please don't hesitate to [let us know](#c
 <br>
 
 #### **If you are a coder and comfortable with Python**<br>
-Then we suggest just cloning this repository and visiting the [notebooks folder](notebooks). The documentation in the notebooks folder should provide all information needed. See the `requirements.txt` files for a list of required libraries.
+Then we suggest just cloning this repository, installing required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks folder should provide all information needed. See the `requirements.txt` files for a list of required libraries.
 
 ----------------------------------------------
 
@@ -116,19 +119,14 @@ data-repo-mvp
 
 ## Data Inventory 
 
-| Dataset Name      | Source | Updated Regularly? | Original URL      | See Data |See Code| Status |
-| ----------- | ----------- | --- | ----------- | ----------- | -- | --|
-| Encounters     | CBP       | Yes | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)      | [Dataset](https://github.com/emersoncollective/data-repo-mvp/blob/main/data/extracted_data/cbp-apprehensions-nov2021.csv)       |[Code]()       | (status) |
-| Asylum Decisions (by Nationality)   | DOJ        | No? | Header      | [Dataset](https://github.com/emersoncollective/data-repo-mvp/blob/main/data/extracted_data/doj_eoir_asylym_decisions.csv)       |[code]()       | (status) |
-<!-- | Visa Issuances (monthly)   | USCIS        | Yes | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)      | [Dataset]()       |[code]()       | (status) |
-| Credible Fear   | USCIS       | No? | Header      | [Dataset]()       |[code]()       | (status) | -->
-
-
-
-
-**Running
-
-
+| Dataset Name                                                                       | Source                          | Original URL                                                                               | See Data                                          | See Code                                                      | Updated Regularly? |
+| ---------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------- | ------------------ |
+| CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)              | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                        |  Yes               |
+| U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF)  | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                     |  No                |
+| EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                          | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb)   |  TODO              |
+| State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)  | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb) |  ???               |
+| USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)      |  ???               |
+| US Census Miscellaneous                                                            | US Census                       | [source](https://data.census.gov/cedsci/)                                                  | NA                                                | [code](notebooks/Census-Data.ipynb)                           | No                 |
 
 
 
