@@ -189,4 +189,4 @@ if __name__ == "__main__":
     print(len(failed_combination))
     print(failed_combination)
 
-    dataset.to_csv(f"../data/extracted_data/cbp-tableau/{args.label}-{today_date}.csv")
+    dataset.to_csv(f"./data/extracted_data/cbp-tableau/{args.label}-{today_date}.csv")
