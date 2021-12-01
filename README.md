@@ -3,7 +3,7 @@
 ## Background 
 The Immigration Data Repo is powered by the Emerson Collective. This is a place where we post immigration related datasets that have been collected (typically by us). The data comes mostly from public sources. 
 
-You can use this repositoty to datasets to use here, but to also...
+You can use this repository to datasets to use here, but to also...
 * download the data
 * get a sense of how the data was collected
 * learn how to use, and adapt, code to procure and format immigration datasets from the web
@@ -43,9 +43,9 @@ Once you have completed this, you can come back here to resume your learning. Yo
 
 
 #### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
-This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annoted text, allowing for readabilty and sharing.
+This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annotated text, allowing for readability and sharing.
 
-We have created a custom coding environment we have setup. This will eliminate the need to manage a Python environment on your local device computer. You can begin by visiting [JupyterHub](http://104.198.52.81/). Login with the username and password we have provided. 
+We have created a custom coding environment where you can run these notebooks. This will eliminate the need to manage a Python environment on your local computer. You can begin by visiting our [JupyterHub](TBD). Login with the username and password we have provided. 
 <br>
 <img src="./misc/images/jupyterhub_signin.png" width="360" height="360">
 <br>
@@ -103,9 +103,13 @@ data-repo-mvp
  ┣ data: Holds raw and processed data used in notebooks. 
  ┃ ┣ extracted_data: Processed or semi-processed data generated from notebooks. 
  ┃ ┗ raw_source_files: Raw files downloaded from sources, for instance PDF files. 
+ ┣ misc: Holds miscellaneous files used in this repo, can be ignored.
  ┣ notebooks: Jupyter/Colab notebooks used to extract/scrape/download data. 
- ┣ src: Folder to hold generic code used in the notebooks for specific data tasks. 
- ┗ README.md
+ ┣ src: Folder contains different scripts used to extract datasets. These scripts are similar
+ ┃       in content to certain notebooks but can be run automatically on predefined schedules. 
+ ┣ README.md
+ ┗ requirements.txt: File that contains all the Python requirements used in this repository. 
+
 ## Repository Structure 
 ```
 
@@ -137,5 +141,4 @@ data-repo-mvp
 # Contact Us: 
 
 Have questions? See an issue? Want help? Don't hesitate to contact us!
-mdowd@emersoncollective.com, ada@emersoncollective.com, dat@emersoncollective.com
-**TO DO: make a general email for this product, or use the products team email (tech_products@emersoncollective.com)**
+* datarepo@emersoncollective.com **<span style="color:red">TO DO: make a general email for this product, or use the products team email<s/pan>**
