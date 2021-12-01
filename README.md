@@ -95,11 +95,22 @@ Then we suggest just cloning this repository, installing required libraries with
 
 ----------------------------------------------
 
-## Tools Used
-* Python 3
-* Google [Colab Notebooks](https://colab.research.google.com/notebooks/intro.ipynb) / [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
-* Java 8
+<br>
+<br>
 
+## Data Inventory 
+
+|   | Dataset Name                                                                      | Source                          | Original URL                                                                              | See Data                                          | See Code                                                    | Updated Regularly? |
+| - | --------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------ |
+| 1 | CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)             | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                      | Yes                |
+| 2 | U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF) | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                   | No                 |
+| 3 | State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb)       | TBD                |
+| 4 | EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                         | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb) | TODO               |
+| 5 | USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | TBD                                               | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)    | TBD                |
+| 6 | US Census Miscellaneous                                                           | US Census                       | [source](https://data.census.gov/cedsci/)                                                 | NA                                                | [code](notebooks/Census-Data.ipynb)                         | No                 |
+| … | More to come                                                                      |                                 |                                                                                           |                                                   |                                                             |                    |
+
+<br>
 ## Repository Structure 
 ```
 data-repo-mvp
@@ -112,24 +123,12 @@ data-repo-mvp
  ┃       in content to certain notebooks but can be run automatically on predefined schedules. 
  ┣ README.md
  ┗ requirements.txt: File that contains all the Python requirements used in this repository. 
-
-## Repository Structure 
 ```
-
-
-## Data Inventory 
-
-| Dataset Name                                                                       | Source                          | Original URL                                                                               | See Data                                          | See Code                                                      | Updated Regularly? |
-| ---------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------- | ------------------ |
-| CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)              | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                        |  Yes               |
-| U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF)  | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                     |  No                |
-| EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                          | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb)   |  TODO              |
-| State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)  | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb) |  ???               |
-| USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)      |  ???               |
-| US Census Miscellaneous                                                            | US Census                       | [source](https://data.census.gov/cedsci/)                                                  | NA                                                | [code](notebooks/Census-Data.ipynb)                           | No                 |
-
-
-
+## Tools Used
+* Python 3
+* Google [Colab Notebooks](https://colab.research.google.com/notebooks/intro.ipynb) / [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
+* Java 8
+<br>
 
 ## License 
     TBD 
