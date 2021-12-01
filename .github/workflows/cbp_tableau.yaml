@@ -21,7 +21,7 @@ jobs:
       - name: execute scraping script
         run: |
          chmod +x test.sh
-         test.sh
+         ./test.sh
         shell: bash
           
       # - name: commit files
