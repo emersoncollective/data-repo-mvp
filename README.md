@@ -52,7 +52,7 @@ Pandas and Data Science
 * [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/) **book** -Highly Recommended-
 * https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/ [TODO We can host]
 * https://github.com/justmarkham/pandas-videos
-
+* https://realpython.com/jupyter-notebook-introduction/ 
 
 #### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
 This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annotated text, allowing for readability and sharing.
@@ -125,6 +125,7 @@ Then we suggest just cloning this repository, installing required libraries with
 
 <br>
 ## Repository Structure 
+
 ```
 data-repo-mvp
  ┣ data: Holds raw and processed data used in notebooks. 
@@ -137,6 +138,7 @@ data-repo-mvp
  ┣ README.md
  ┗ requirements.txt: File that contains all the Python requirements used in this repository. 
 ```
+
 ## Tools Used
 * Python 3
 * Google [Colab Notebooks](https://colab.research.google.com/notebooks/intro.ipynb) / [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
