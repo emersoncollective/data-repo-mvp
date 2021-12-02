@@ -20,7 +20,7 @@ def find_filters_worksheet(ts):
 
     """
     Function to search the dashboard to find the worksheet that manages
-    the filters that are avaiable on the dashboard.
+    the filters that are available on the dashboard.
     """
     workbook = ts.getWorkbook()
     filters_ws = None
@@ -30,7 +30,7 @@ def find_filters_worksheet(ts):
         if len(filters) > 0:
             print("-" * 90)
             print(
-                f"Filters Presesnt on element name --> {t.name}"
+                f"Filters present on element name --> {t.name}"
             )  # show worksheet name
             filters_ws = t.name
             print("-" * 90)
@@ -71,7 +71,7 @@ def unpack_filter_information(ts, filters_ws, skip_filter=[]):
         except ValueError:
             print(f"{col} not present")
 
-    # The code beloew creates an exhaustive
+    # The code belew creates an exhaustive
     # list of all possible filter combinations, this does not control for
     # combinations that don't exist though, meaning that some filter comnbinations
     # that don't have any valid data may be attempted, this is fine though we just
@@ -111,12 +111,17 @@ def get_dashboard_data(
     failed_combination = []
     tableau_dataframe = pd.DataFrame()
     for filter_combination in all_filter_combinations:
-        time.sleep(10)
         print("Attempting Filter Combination", filter_combination)
-        ts = TS()
-        ts.loads(url)
-        workbook = ts  # in case all filters are null
-        worksheet = ts.getWorksheet(filter_worksheet)
+        for attempt in range(10):
+            try:
+                ts = TS()
+                ts.loads(url)
+                time.sleep(5)
+                workbook = ts  # in case all filters are null
+                worksheet = ts.getWorksheet(filter_worksheet)
+                break  # if gotten this far i think i'm successful
+            except Exception as e:
+                print(f"Error on attempt: {attempt}\n", e)
         try:
             for idx, col in enumerate(all_filter_columns):
                 # If it is none it means we are not applying any filter option for the dropdown filter
