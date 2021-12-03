@@ -111,7 +111,7 @@ def get_dashboard_data(
     failed_combination = []
     tableau_dataframe = pd.DataFrame()
     for filter_combination in all_filter_combinations:
-        print("Attempting Filter Combination", filter_combination)
+        # print("Attempting Filter Combination", filter_combination)
         for attempt in range(10):
             try:
                 ts = TS()
@@ -121,7 +121,7 @@ def get_dashboard_data(
                 worksheet = ts.getWorksheet(filter_worksheet)
                 break  # if gotten this far i think i'm successful
             except Exception as e:
-                print(f"Error on attempt: {attempt}\n", e)
+                print(f"Error on dashboard request attempt: {attempt} of 10\n", e)
         try:
             for idx, col in enumerate(all_filter_columns):
                 # If it is none it means we are not applying any filter option for the dropdown filter
