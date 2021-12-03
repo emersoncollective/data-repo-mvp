@@ -18,10 +18,24 @@ Have any questions? Feel free to [get in touch with us!](#contact-us)
 
 ### 1. Are you just looking for the data?
  
- See the [Data Inventory](#data-inventory) table. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
+ See the [Data Inventory](#data-inventory) table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
  * We update select datasets as new data gets released 
  <span style="color:red">**!! TBD - not yet true but hopefully soon!!**</span> 
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
+
+## Data Inventory 
+
+|   | Dataset Name                                                                      | Source                          | Original URL                                                                              | See Data                                          | See Code                                                    | Updated Regularly? |
+| - | --------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------ |
+| 1 | CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)             | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                      | Yes                |
+| 2 | U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF) | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                   | No                 |
+| 3 | State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb)       | TBD                |
+| 4 | EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                         | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb) | TODO               |
+| 5 | USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | TBD                                               | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)    | TBD                |
+| 6 | US Census Miscellaneous                                                           | US Census                       | [source](https://data.census.gov/cedsci/)                                                 | NA                                                | [code](notebooks/Census-Data.ipynb)                         | No                 |
+| … | More to come                                                                      |                                 |                                                                                           |                                                   |                                                             |                    |
+
+<br>
 
 We recommend reviewing the code notebooks used to generate the data to allow for better understanding of how to extract such information and what the data structure will be. 
 
@@ -29,30 +43,11 @@ We recommend reviewing the code notebooks used to generate the data to allow for
 
 ### 2. Would you like to review and run the code used to generate data? 
 
-Fantastic ! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. 
+Fantastic! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. We host the Notebooks on an interactive evironment with everything you need, allowing you to skip installing python and maintaining the environment yourself. Feel free to 
 
-#### **If you are new to Python, continue with the instructions below** else [you can skip this section](#If-you-are-new-to-Jupyter Notebooks-continue-with-the instructions below) <br>
-
-So you are new to Python. Welcome! We would love to help you learn a new skill. Thankfully there are many resources online that can help get up to speed with Python quickly. 
+#### **If you are new to Python, continue with the instructions [here](/learn_python.md)** else [you can skip this section](#If-you-are-new-to-Jupyter Notebooks-continue-with-the instructions below) <br>
 
 
-**NOTE: We need to select a resource for remedial Python, and set a benchmark of how much of the course they would have completed. This will help us better understand the level at which we write the language in the notebooks. Below is filler text until we do this**
-
-We recommend going through the tutorials at [learnpython.org](https://www.learnpython.org/en/Welcome). You should run through all exercises in **Learn the Basics**, and the **Pandas Basics** tutorial as well. This should take no more than a few hours of your time. If you would like to explore some additional resources these are also free and potentially useful.
-
-Once you have completed this, you can come back here to resume your learning. You will find examples relevant to immigration space that you can run, or even modify and adapt to a different dataset!
-
-**Additional Resources**
-Python
-* [datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-* [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/)
-* [Codeacademy](https://www.codecademy.com/learn/learn-python-3)
-
-Pandas and Data Science
-* [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/) **book** -Highly Recommended-
-* https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/ [TODO We can host]
-* https://github.com/justmarkham/pandas-videos
-* https://realpython.com/jupyter-notebook-introduction/ 
 
 #### **If you are new to Jupyter Notebooks, continue with the instructions below** else (you can skip this section)[#if-you-are-a-coder-and-comfortable-with-python] <br>
 This code can be run in a number of different ways. For those who are new(-ish) to Python, Jupyter Notebooks are containers that hold code, along with snapshots of outputs, and annotated text, allowing for readability and sharing.
@@ -111,19 +106,7 @@ Then we suggest just cloning this repository, installing required libraries with
 <br>
 <br>
 
-## Data Inventory 
 
-|   | Dataset Name                                                                      | Source                          | Original URL                                                                              | See Data                                          | See Code                                                    | Updated Regularly? |
-| - | --------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------ |
-| 1 | CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)             | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                      | Yes                |
-| 2 | U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF) | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                   | No                 |
-| 3 | State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb)       | TBD                |
-| 4 | EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                         | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb) | TODO               |
-| 5 | USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | TBD                                               | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)    | TBD                |
-| 6 | US Census Miscellaneous                                                           | US Census                       | [source](https://data.census.gov/cedsci/)                                                 | NA                                                | [code](notebooks/Census-Data.ipynb)                         | No                 |
-| … | More to come                                                                      |                                 |                                                                                           |                                                   |                                                             |                    |
-
-<br>
 ## Repository Structure 
 
 ```
