@@ -11,7 +11,7 @@ We have designed the respository to allow you to explore our work in various way
 * learning how to use and adapt our code to procure and wrangle similar datasets
 
 The Data Repository can be accessed and viewed in two ways.:
-* [JupyterHub View](http://34.133.178.202/hub) - recommended for beginning and intermediate users
+* [JupyterHub View](http://data-repo.emersoncollective.tech/) - recommended for beginning and intermediate users
 * [Github View](https://github.com/emersoncollective/data-repo-mvp) - recommended for advanced users
 
 Don't know which to use? Continue reading to learn more about which way of accessing the data is right for you!
