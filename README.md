@@ -1,14 +1,24 @@
 # The Immigration Data Repository 
 
+*...powered by the Emerson Collective!*
+
 ## Background 
-The Immigration Data Repo is powered by the Emerson Collective. This is a place where we post immigration related datasets that have been collected (typically by us). The data comes mostly from public sources. 
+The Immigration Data Repository is a place where you can find immigration-related datasets that we have sourced, assembled, and converted into easy-to-use formats. 
 
-You can use this repository to datasets to use here, but to also...
-* download the data
-* get a sense of how the data was collected
-* learn how to use, and adapt, code to procure and format immigration datasets from the web
+We have designed the respository to allow you to explore our work in various ways, including...
+* downloading the datasets that are presented in easy-to-use formats
+* understanding how the data was collected
+* learning how to use and adapt our code to procure and wrangle similar datasets
 
-**Have any questions?** Feel free to [get in touch with us!](#contact-us)
+The Data Repository can be accessed and viewed in two ways.:
+* [JupyterHub View](http://34.133.178.202/hub) - recommended for beginning and intermediate users
+* [Github View](https://github.com/emersoncollective/data-repo-mvp) - recommended for advanced users
+
+Don't know which to use? Continue reading to learn more about which way of accessing the data is right for you!
+
+<br>
+
+**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [get in touch with us!](#contact-us)
 
 **Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel!]()
 
@@ -20,12 +30,11 @@ You can use this repository to datasets to use here, but to also...
 
 ### 1. Are you just looking for the data?
  
- See the [Data Inventory](#data-inventory) table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
- * We update select datasets as new data gets released 
- <span style="color:red">**!! TBD - not yet true but hopefully soon!!**</span> 
+See the [Data Inventory](#data-inventory) table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
+ * We update select datasets as new data gets released
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
-## Data Inventory 
+**Data Inventory**
 
 |   | Dataset Name                                                                      | Source                          | Original URL                                                                              | See Data                                          | See Code                                                    | Updated Regularly? |
 | - | --------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------ |
@@ -45,18 +54,22 @@ We recommend reviewing the code notebooks used to generate the data to allow for
 
 ### 2. Would you like to review and run the code used to generate data? 
 <br>
-Fantastic! We have used code notebooks (called Jupyter Notebooks) to write Python code to extract the different datasets. The Notebooks are annotated to explain the methodology in a stepwise manner. We host the Notebooks on an interactive evironment (a JupyterHub) so that you can run the code yourself if you like! 
+Fantastic! We have used code notebooks (Jupyter Notebooks) to write Python code to extract the different datasets. The Notebooks are annotated to explain the methodology in a stepwise manner. We host the Notebooks on an interactive evironment (JupyterHub) so that you can run the code yourself if you like!
 
-The environment has everything you need to run the code -- no need to install python and maintaining the environment on your computer. You can also write and run your own code on your JupyterHub.
+The JupyterHub environment has everything you need to run the code -- there is no need to install python and maintaining the environment on your computer. You can also write and run your own code on your JupyterHub.
 
-
-#### **If you are new to Python, continue with the instructions [here](/learn_python.md)** else [you can skip this section](#If-you-are-new-to-jupyter Notebooks) <br>
-
-
-#### **If you know some Python, but are new to Jupyter Notebooks, continue with the instructions [here](/learn_jupyter.md)** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
+**If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any notebooks  the Emerson Collective makes to the code will be reflected on your account.
 
 
-#### **If you are a coder and comfortable with Python**<br>
+#### **If you are new to Python, check out some resources we have compiled [here](/learn_python.md).** 
+We recommend completing a set of basic Python coursework to help you understand what the code on this repository is doing at a high-level.
+
+
+#### **If you know some Python, but are new to Jupyter Notebooks, check out some resources we compiled [here](/learn_jupyter.md)** 
+These resources will help you understand the basic functionality of Jupyter Notebooks, such as how to run code on a notebook, and how to make a notebook of your own.
+
+
+#### **If you are a coder and are comfortable with Python**<br>
 If you are an advanced user, feel free to clone this Github repository to your local device. You can install the required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks should provide all information needed. 
 
 ----------------------------------------------
@@ -83,10 +96,12 @@ data-repo-mvp
 ## Tools Used
 * [Python 3](https://docs.python.org/3/)
 * [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
-* Java 8
 <br>
 
 ## License 
+    TBD 
+
+## How to Cite Us 
     TBD 
 
 --------------------------------
@@ -94,4 +109,5 @@ data-repo-mvp
 # Contact Us: 
 
 Have questions? See an issue? Want help? Don't hesitate to contact us!
-* datarepo@emersoncollective.com **<span style="color:red">TO DO: make a general email for this product, or use the products team email<s/pan>**
+* datarepo@emersoncollective.com
+* tech_product@emersoncollective.com
