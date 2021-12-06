@@ -8,9 +8,11 @@ You can use this repository to datasets to use here, but to also...
 * get a sense of how the data was collected
 * learn how to use, and adapt, code to procure and format immigration datasets from the web
 
-Have any questions? Feel free to [get in touch with us!](#contact-us)
-Do you want to connect and engage with a community of trusted peers to learn from/with? Feel free to [join our Slack Channel!]()
-Do you have any code or datasets you want to share with this community? Feel free to [let us know!]((#contact-us))
+**Have any questions?** Feel free to [get in touch with us!](#contact-us)
+
+**Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel!]()
+
+**Do you have any code or datasets you want to share with this community?** Feel free to [let us know!]((#contact-us))
 
 <br>
 
