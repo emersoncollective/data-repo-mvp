@@ -55,8 +55,10 @@ We recommend reviewing the code notebooks used to generate the data to allow for
 ### 2. Would you like to review and run the code used to generate data? 
 <br>
 Fantastic! We have used code notebooks (Jupyter Notebooks) to write Python code to extract the different datasets. The Notebooks are annotated to explain the methodology in a stepwise manner. We host the Notebooks on an interactive evironment (JupyterHub) so that you can run the code yourself if you like!
-
+<br>
 The JupyterHub environment has everything you need to run the code -- there is no need to install python and maintaining the environment on your computer. You can also write and run your own code on your JupyterHub.
+
+<br>
 
 **If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any notebooks  the Emerson Collective makes to the code will be reflected on your account.
 
