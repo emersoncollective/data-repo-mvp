@@ -7,10 +7,10 @@ You can use this repository to datasets to use here, but to also...
 * download the data
 * get a sense of how the data was collected
 * learn how to use, and adapt, code to procure and format immigration datasets from the web
-* connect and engage with a community of trusted peers to learn from/with
-* contribute any code and/or datasets you may wish to the community
 
 Have any questions? Feel free to [get in touch with us!](#contact-us)
+Do you want to connect and engage with a community of trusted peers to learn from/with? Feel free to [join our Slack Channel!]()
+Do you have any code or datasets you want to share with this community? Feel free to [let us know!]((#contact-us))
 
 <br>
 
@@ -51,7 +51,7 @@ The environment has everything you need to run the code -- no need to install py
 #### **If you are new to Python, continue with the instructions [here](/learn_python.md)** else [you can skip this section](#If-you-are-new-to-jupyter Notebooks) <br>
 
 
-#### **If you are new to Jupyter Notebooks, continue with the instructions [here](/learn_jupyter.md)** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
+#### **If you know some Python, but are new to Jupyter Notebooks, continue with the instructions [here](/learn_jupyter.md)** else [you can skip this section](#if-you-are-a-coder-and-comfortable-with-python) <br>
 
 
 #### **If you are a coder and comfortable with Python**<br>
