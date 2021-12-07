@@ -5,7 +5,7 @@ Welcome! We would love to help you learn a new skill. Thankfully there are many 
 We recommend going through the tutorials at [learnpython.org](https://www.learnpython.org/en/Welcome). We like this resource because there is an integrated Python environment where you can practice writing and running code snippets. Our recommended crash course below should take only a few hours of your time.
 
 ## Suggested Crash Course
-You should run through all exercises in **Learn the Basics**, which will allow you to learn how to...
+You should run through all exercises in **Learn the Basics**, after which you will be able to...
 * understand basic elements of the Python language
 * implement basic logical elements (such as for loops and if statements)
 * think through basic problems to arrive at code based solutions
