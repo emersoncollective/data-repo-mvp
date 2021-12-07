@@ -20,7 +20,7 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 **Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [get in touch with us!](#contact-us)
 
-**Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel!]()
+**Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel **TBD**!]()
 
 **Do you have any code or datasets you want to share with this community?** Feel free to [let us know!]((#contact-us))
 
@@ -40,10 +40,10 @@ See the [Data Inventory](#data-inventory) table below. The links in the **See Da
 | - | --------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------ |
 | 1 | CBP Southwest Land Border Encounters                                              | CBP                             | [source](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)             | [dataset ](data/extracted_data/cbp-tableau)       | [code](Notebooks/CBP-Encounters.ipynb)                      | Yes                |
 | 2 | U.S. Border Patrol Nationwide Apprehensions by Citizenship and Sector FY2007-2020 | CBP                             | [source ](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/USBORD~3.PDF) | [dataset ](data/extracted_data/cbp-apprehensions) | [code](Notebooks/CBP-Apprehensions.ipynb)                   | No                 |
-| 3 | State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](notebooks/State-Dept-Monthly-Visa-Stats.ipynb)       | TBD                |
-| 4 | EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                         | [dataset ](data/extracted_data/doj)               | [code](notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb) | TODO               |
-| 5 | USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | TBD                                               | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)    | TBD                |
-| 6 | US Census Miscellaneous                                                           | US Census                       | [source](https://data.census.gov/cedsci/)                                                 | NA                                                | [code](notebooks/Census-Data.ipynb)                         | No                 |
+| 3 | State Department Monthly Visa Issuances                                           | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | [dataset ](data/extracted_data/state-dept)        | [code](Notebooks/STATE-DEPT-Monthly-Visa-Stats.ipynb)       | *TBD*                |
+| 4 | EOIR Asylum Decision Rates by Nationality                                         | US Department of Justice / EOIR | [source](https://www.justice.gov/eoir/page/file/1107366/download)                         | [dataset ](data/extracted_data/doj)               | [code](Notebooks/DOJ-Asylum-Decisions-by-Nationality.ipynb) | *TODO*               |
+| 5 | USCIS Congressional Semi-Monthly Report (CFR/RFR)                                 | US State Department             | [source](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html) | *TBD*                                               | [code](Notebooks/USCIS-Credible-Fear-Spreadsheets.ipynb)    | *TBD*                |
+| 6 | US Census Miscellaneous                                                           | US Census                       | [source](https://data.census.gov/cedsci/)                                                 | NA                                                | [code](Notebooks/Census-Data.ipynb)                         | No                 |
 | … | More to come                                                                      |                                 |                                                                                           |                                                   |                                                             |                    |
 
 <br>
@@ -62,7 +62,7 @@ Fantastic! We have used code notebooks (Jupyter Notebooks) to write Python code 
 
 
 
-**If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any notebooks  the Emerson Collective makes to the code will be reflected on your account.
+**If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any changes made to the notebooks provided by the Emerson Collective will be reflected on your account.
 
 
 #### **If you are new to Python, check out some resources we have compiled [here](/learn_python.md).** 
@@ -74,7 +74,7 @@ These resources will help you understand the basic functionality of Jupyter Note
 
 
 #### **If you are a coder and are comfortable with Python**<br>
-If you are an advanced user, feel free to clone this Github repository to your local device. You can install the required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks should provide all information needed. 
+If you are an advanced user, feel free to clone the Github repository to your local device. At present, the Github view is private, however feel free to [get in touch with us!](#contact-us) to request access. You can install the required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks should provide all information needed. 
 
 ----------------------------------------------
 
