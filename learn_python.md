@@ -4,6 +4,7 @@ Welcome! We would love to help you learn a new skill. Thankfully there are many 
 
 We recommend going through the tutorials at [learnpython.org](https://www.learnpython.org/en/Welcome). We like this resource because there is an integrated Python environment where you can practice writing and running code snippets. Our recommended crash course below should take only a few hours of your time.
 
+## Suggested Crash Course
 You should run through all exercises in **Learn the Basics**, which will allow you to learn how to...
 * understand basic elements of the Python language
 * implement basic logical elements (such as for loops and if statements)
@@ -21,17 +22,16 @@ You will find examples relevant to immigration  that you can run, and modify to 
 ------------
 
 
-**So, you would like to learn even more Python...Great! Here are some additional resources...**
+## So, you would like to learn even more Python...
 
 If you would like to explore some additional resources these are also free and potentially useful.
 
-Python
+### Python
 * [datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/)
 * [Codeacademy](https://www.codecademy.com/learn/learn-python-3)
 
-Pandas and Data Science
-* [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/) **book** -Highly Recommended-
-* [test](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
-* [test](https://github.com/justmarkham/pandas-videos)
-* [test](https://realpython.com/jupyter-notebook-introduction/)
+### Pandas and Data Science
+* [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/) **book** *-Highly Recommended-*
+* [Learn DataSci - Python Pandas Tutorial, Complete Introduction for Beginniners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+* [Justmarkham's Pandas Videos](https://github.com/justmarkham/pandas-videos)
