@@ -1,3 +1,10 @@
+<!--THINGS TO ADD
+* Recommend hte user to make a folder to work with inthere, port over copies to the folder
+* “Any changes you made will not be changed unless you make a copy
+
+
+-->
+
 # The Immigration Data Repository 
 
 *...powered by the Emerson Collective!*
