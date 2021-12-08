@@ -72,11 +72,11 @@ Fantastic! We have used code notebooks (Jupyter Notebooks) to write Python code 
 **If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any changes made to the notebooks provided by the Emerson Collective will be reflected on your account.
 
 
-#### **If you are new to Python, check out some resources we have compiled [here](/learn_python.md).** 
+#### **If you are new to Python, check out some resources we have compiled [here](./learn_python.md).** 
 We recommend completing a set of basic Python coursework to help you understand what the code on this repository is doing at a high-level.
 
 
-#### **If you know some Python, but are new to Jupyter Notebooks, check out some resources we compiled [here](/learn_jupyter.md)** 
+#### **If you know some Python, but are new to Jupyter Notebooks, check out some resources we compiled [here](./learn_jupyter.md)** 
 These resources will help you understand the basic functionality of Jupyter Notebooks, such as how to run code on a notebook, and how to make a notebook of your own.
 
 
