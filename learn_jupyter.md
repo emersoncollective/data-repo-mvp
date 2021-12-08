@@ -29,7 +29,11 @@ Hooray ! You've made it and can now start using code to work with immigration da
 
 On your JupyterHub, you can access code that has been written by EC (written as executable Jupyter Notebooks) as well as their outputs. You, the user, have read-write privilege on your JupyterHub, and the view is for yourself only. This means that you are free to write your own code (or edit existing code), and to run it on the JupyterHub -- however it will not be shared with any other user asides from yourself.
 
-Any notebooks or datasets that have been shared on your JupyerHub by EC will be maintained by EC. If there are any updates, we will zap them over to your JupyterHub! Do you feel like making edits to any code from EC? We recommend making a copy of the notebook...
+Any notebooks or datasets that have been shared on your JupyerHub by EC will be maintained by EC. If there are any updates, we will zap them over to your JupyterHub! 
+
+**RECOMMENDATION:**
+We highly recommend you create your own folder for any code or Notebooks you would like to write.
+Would you like to make edits to any code from EC? We recommend making a copy of that notebook and placing it in your folder...
 
 
 ## How do I run a Jupyer Notebook?
