@@ -8,18 +8,18 @@ The EC Data Repository takes advantage of Jupyter Notebooks and JupyerHub to mak
 
 We have created a custom coding environment where you can run these notebooks. This will eliminate the need to manage a Python environment on your local computer. You can begin by visiting our [JupyterHub](TBD). Login with your username and password. 
 <br>
-<img src="./misc/images/jupyterhub_signin.png" width="360" height="360">
+<img src="../misc/images/jupyterhub_signin.png" width="360" height="360">
 <br>
 
 Once you have logged in an environment will be started that contains the code notebooks we have created. It may take a couple of minutes for the environment to start up. 
 <br>
-<img src="./misc/images/jupyterhub_startup.png" width="1000" >
+<img src="../misc/images/jupyterhub_startup.png" width="1000" >
 <br>
 <br>
 Eventually you will be presented with the following screen. 
 <br>
 <br>
-<img src="./misc/images/jupyterhub_enviro.png" width="1000">
+<img src="../misc/images/jupyterhub_enviro.png" width="1000">
 <br>
 There will be 2 folders, `data-repo` and `lost+found`, you can ignore the `lost+found` folder, but the `data-repo` folder contains the notebooks, data and code we are interested in. Inside `data-repo` there is a folder called `notebooks` please open up this folder. 
      
@@ -40,7 +40,7 @@ Would you like to make edits to any code from EC? We recommend making a copy of 
 
 To run a cell you can just click the small play button to the far left of any cell.
 <br>
-<img src="./misc/images/run_a_cell.png" width="330" height="200">
+<img src="../misc/images/run_a_cell.png" width="330" height="200">
 <br>
 
 You can either click each play button or use the keyboard shortcut of SHIFT + ENTER to execute them as well.  We suggest running through notebooks of interest cell by cell. Its ok if you don't understand all of it but at least review the steps that are occurring. Also reference the [Notebooks Readme file](./Notebooks/README.md) and look at the **output data files**. In addition we have saved interim raw files in the [./Data/raw_source_files/](./Data/raw_source_files/) directory. 
