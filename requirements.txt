@@ -13,4 +13,4 @@ TableauScraper==0.1.27
 tabula-py==2.2.0
 waybackpy==2.4.4
 xlrd==1.2.0
-
+lxml==4.6.1
