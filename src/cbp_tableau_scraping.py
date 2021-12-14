@@ -231,7 +231,7 @@ class CBPTableauScraper:
             self.custom_logger.info("Failed Combinations")
             self.custom_logger.info(len(failed_combination))
             self.custom_logger.info(failed_combination)
-            dataset.to_csv(output_file_label)
+            dataset.to_csv(output_file_label, index=False)
         else:
             self.custom_logger.info(
                 "Data's last modified date matches existing file - skipping data extraction"
