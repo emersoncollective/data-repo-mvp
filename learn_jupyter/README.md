@@ -55,7 +55,7 @@ We are excited for you to be able to work with these notebooks, see how the conc
 
 
 -----
-## Resources
+## Additional Resources
 
 ## What is a Jupyter Notebook and a JupyterHub?
 * [Dataquest - Jupyter Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
