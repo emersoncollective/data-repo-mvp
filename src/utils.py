@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import hashlib
+import re
+import pandas as pd
 
 
 def are_files_identical(filename1, filename2):
@@ -34,3 +36,11 @@ def are_files_identical(filename1, filename2):
             return True
         else:
             return False
+
+
+def get_date_from_filename(file):
+    date_re = r"(january|february|march|april|may|june|july|august|september|october|november|december)_(\d{1,2})_(\d{4})"
+    re_find = re.findall(date_re, file)
+    if re_find:
+        return pd.to_datetime("_".join(re_find[0]), format="%B_%d_%Y")
+    return None

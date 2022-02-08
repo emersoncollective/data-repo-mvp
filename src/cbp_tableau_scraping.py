@@ -1,9 +1,11 @@
 # Import helper python libraries
 import argparse
+import datetime
 import itertools
 import logging
 import logging.config
 import time
+import os
 from pathlib import Path
 
 import pandas as pd
@@ -12,6 +14,7 @@ from bs4 import BeautifulSoup
 from tableauscraper import TableauScraper as TS
 
 import logger
+from utils import are_files_identical, get_date_from_filename
 
 logging.config.dictConfig(
     {
@@ -160,37 +163,47 @@ class CBPTableauScraper:
                     self.custom_logger.info(
                         f"Error on dashboard request attempt: {attempt} of 10\n", e
                     )
-            try:
-                for idx, col in enumerate(all_filter_columns):
-                    # If it is none it means we are not applying any filter option for the dropdown filter
-                    if filter_combination[idx] is None:
-                        continue
-                    else:
-                        # apply the individual filter and continue iterating
-                        worksheet = workbook.getWorksheet(filter_worksheet)
-                        workbook = worksheet.setFilter(
-                            col, filter_combination[idx], filterDelta=True
-                        )
-                subset_worksheet = workbook.getWorksheet(data_worksheet)
-                subset_data = subset_worksheet.data
-                if len(subset_data) > 0:  # Only do this if we have data
-                    # Now we iterate over the filter and label the data with
-                    # what filters were applied.
-                    for col, val in list(zip(all_filter_columns, filter_combination)):
-                        if val is None:
-                            val = "all"
-                        subset_data.loc[:, col] = val
+            # Sometimes the dashboard returns None for valid filter combinations
+            # This is a quick fix since I'm not sure what else can be done
+            for attempt in range(10):
+                self.custom_logger.info(
+                    f"Attempt {attempt+1} on filter combo: {filter_combination}"
+                )
+                try:
+                    for idx, col in enumerate(all_filter_columns):
+                        # If it is none it means we are not applying any filter option for the dropdown filter
+                        if filter_combination[idx] is None:
+                            continue
+                        else:
+                            # apply the individual filter components and continue iterating
+                            worksheet = workbook.getWorksheet(filter_worksheet)
+                            workbook = worksheet.setFilter(
+                                col, filter_combination[idx], filterDelta=True
+                            )
 
-                    # append the data to our master dataframe
-                    tableau_dataframe = tableau_dataframe.append(subset_data)
-                else:
-                    self.custom_logger.info(
-                        f"WARNING No Length on {filter_combination}"
-                    )
+                    subset_worksheet = workbook.getWorksheet(data_worksheet)
+                    subset_data = subset_worksheet.data
+                    if len(subset_data) > 0:  # Only do this if we have data
+                        # Now we iterate over the filter and label the data with
+                        # what filters were applied.
+                        for col, val in list(
+                            zip(all_filter_columns, filter_combination)
+                        ):
+                            if val is None:
+                                val = "all"
+                            subset_data.loc[:, col] = val
+
+                        # append the data to our master dataframe
+                        tableau_dataframe = tableau_dataframe.append(subset_data)
+                    else:
+                        self.custom_logger.info(
+                            f"WARNING No Length on {filter_combination}"
+                        )
+                        failed_combination.append(filter_combination)
+                    break
+                except Exception as e:
+                    self.custom_logger.info(f"WARNING on {filter_combination} \n {e}")
                     failed_combination.append(filter_combination)
-            except Exception as e:
-                self.custom_logger.info(f"WARNING on {filter_combination} \n {e}")
-                failed_combination.append(filter_combination)
         return tableau_dataframe, failed_combination
 
     def run(self):
@@ -198,44 +211,72 @@ class CBPTableauScraper:
         dashboard_url = args.url
         skip_filters = eval(args.skip_filters)
         last_modified = self.get_last_modified_date()
+        today = datetime.date.today().strftime("%B_%d_%Y").lower()
+        run_label = args.label
         # Steps
         # check if we already have the file ...
         # tag the file with the date if it doesn't exists
         # if the
 
-        output_file_label = OUTPUT_DIRECTORY / f"{args.label}-{last_modified}.csv"
-
-        if output_file_label not in [f for f in OUTPUT_DIRECTORY.iterdir()]:
+        output_file_label = f"{run_label}_official_update-{last_modified}.csv"
+        output_file_path = OUTPUT_DIRECTORY / output_file_label
+        check_for_change_run = False
+        if output_file_path not in [f for f in OUTPUT_DIRECTORY.iterdir()]:
             self.custom_logger.info(
-                "Current data not yet extracted - starting extraction ..."
+                "Official Update Occurred  - starting extraction ..."
             )
-            # Run process
-            ts = TS()
-            ts.loads(dashboard_url)
-            data_element_target = args.data_element
-            filters_ws, _ = self.find_filters_worksheet(ts)
-
-            filter_data = self.unpack_filter_information(
-                ts,
-                filters_ws,
-                skip_filter=skip_filters,
-            )
-
-            dataset, failed_combination = self.get_dashboard_data(
-                dashboard_url,
-                filter_data["filter_columns"],
-                filter_data["filter_combinations"],
-                filters_ws,
-                data_element_target,
-            )
-            self.custom_logger.info("Failed Combinations")
-            self.custom_logger.info(len(failed_combination))
-            self.custom_logger.info(failed_combination)
-            dataset.to_csv(output_file_label, index=False)
         else:
-            self.custom_logger.info(
-                "Data's last modified date matches existing file - skipping data extraction"
+            check_for_change_run = True
+            self.custom_logger.info("Processing to check for unofficial updates...")
+            output_file_label = f"{run_label}_detected_change-{today}.csv"
+            output_file_path = OUTPUT_DIRECTORY / output_file_label
+
+        # Run process
+        ts = TS()
+        ts.loads(dashboard_url)
+        data_element_target = args.data_element
+        filters_ws, _ = self.find_filters_worksheet(ts)
+
+        filter_data = self.unpack_filter_information(
+            ts,
+            filters_ws,
+            skip_filter=skip_filters,
+        )
+
+        dataset, failed_combination = self.get_dashboard_data(
+            dashboard_url,
+            filter_data["filter_columns"],
+            filter_data["filter_combinations"],
+            filters_ws,
+            data_element_target,
+        )
+        failed_combination = list(set([str(i) for i in failed_combination]))
+        self.custom_logger.info("Failed Combinations")
+        self.custom_logger.info(len(failed_combination))
+        self.custom_logger.info(failed_combination)
+
+        # save to disk
+        dataset.to_csv(output_file_path, index=False)
+
+        if check_for_change_run:
+            # 1 - find the most recent file for this specific run label - not picking the file we just saved to disk
+            files = [f.name for f in OUTPUT_DIRECTORY.iterdir()]
+            files.remove(output_file_label)
+            lastest_file = max(
+                [(f, get_date_from_filename(f)) for f in files if run_label in f],
+                key=lambda x: x[1],
             )
+            # 2 - compare the newest file of that run label to the one we just created
+            if are_files_identical(
+                OUTPUT_DIRECTORY / lastest_file[0], output_file_path
+            ):
+                # 3 if the newest file is different than the one we just made - do nothing
+                os.remove(output_file_path)
+                custom_logger.info(
+                    "File was identical to previous file - extract removed."
+                )
+            else:
+                custom_logger.info("Change detected in file.")
 
 
 if __name__ == "__main__":
