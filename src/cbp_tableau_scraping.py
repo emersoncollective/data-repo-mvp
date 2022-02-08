@@ -197,7 +197,7 @@ class CBPTableauScraper:
                         tableau_dataframe = tableau_dataframe.append(subset_data)
                     else:
                         self.custom_logger.info(
-                            f"WARNING No Length on {filter_combination}"
+                            f"WARNING No Length on {str(filter_combination)}"
                         )
                         failed_combination.append(filter_combination)
                     break
