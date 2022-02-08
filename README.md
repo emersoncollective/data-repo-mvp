@@ -81,7 +81,7 @@ These resources will help you understand the basic functionality of Jupyter Note
 
 
 #### **If you are a coder and are comfortable with Python**<br>
-If you are an advanced user, feel free to clone the Github repository to your local device. At present, the Github view is private, however feel free to [get in touch with us!](#contact-us) to request access. You can install the required libraries with the `requirements.txt` file and visiting the [notebooks folder](notebooks). The documentation in the notebooks should provide all information needed. 
+If you are an advanced user, feel free to clone the Github repository to your local device. At present, the Github view is private, however feel free to [get in touch with us!](#contact-us) to request access. You can install the required libraries with the `requirements.txt` file and visiting the [notebooks folder](./Notebooks). The documentation in the notebooks should provide all information needed. 
 
 ----------------------------------------------
 
