@@ -160,9 +160,6 @@ class CBPTableauScraper:
                     break  # if gotten this far i think i'm successful
                 except Exception as e:
                     filter_count -= 1
-                    self.custom_logger.info(
-                        f"Error on dashboard request attempt: {attempt} of 10\n", str(e)
-                    )
             # Sometimes the dashboard returns None for valid filter combinations
             # This is a quick fix since I'm not sure what else can be done
             for attempt in range(10):
