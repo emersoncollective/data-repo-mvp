@@ -146,7 +146,7 @@ class CBPTableauScraper:
         filter_count = 0
         for filter_combination in all_filter_combinations:
             # self.custom_logger.info("Attempting Filter Combination", filter_combination)
-            for attempt in range(10):
+            for attempt in range(15):
                 try:
                     filter_count += 1
                     ts = TS()
@@ -157,19 +157,7 @@ class CBPTableauScraper:
                     self.custom_logger.info(
                         f"On filter #{filter_count} / {len(all_filter_combinations)}"
                     )
-                    break  # if gotten this far i think i'm successful
-                except Exception as e:
-                    filter_count -= 1
-                    self.custom_logger.info(
-                        f"Error on dashboard request attempt: {attempt} of 10\n", e
-                    )
-            # Sometimes the dashboard returns None for valid filter combinations
-            # This is a quick fix since I'm not sure what else can be done
-            for attempt in range(10):
-                self.custom_logger.info(
-                    f"Attempt {attempt+1} on filter combo: {filter_combination}"
-                )
-                try:
+
                     for idx, col in enumerate(all_filter_columns):
                         # If it is none it means we are not applying any filter option for the dropdown filter
                         if filter_combination[idx] is None:
@@ -200,10 +188,16 @@ class CBPTableauScraper:
                             f"WARNING No Length on {str(filter_combination)}"
                         )
                         failed_combination.append(filter_combination)
-                    break
+
+                    break  # if gotten this far i think i'm successful
                 except Exception as e:
-                    self.custom_logger.info(f"WARNING on {filter_combination} \n {e}")
+                    filter_count -= 1
+                    # This is a quick fix since I'm not sure what else can be done
+                    self.custom_logger.info(
+                        f"Attempt {attempt+1} on filter combo: {str(filter_combination)}"
+                    )
                     failed_combination.append(filter_combination)
+
         return tableau_dataframe, failed_combination
 
     def run(self):
