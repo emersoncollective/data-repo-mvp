@@ -25,11 +25,9 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 <br>
 
-**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [get in touch with us!](#contact-us)
+**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [fill out an inquiry form!](https://airtable.com/shrRgwUBU2Tv7UN7n)
 
-**Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel **TBD**!]()
-
-**Do you have any code or datasets you want to share with this community?** Feel free to [let us know!]((#contact-us))
+**Do you have any code or datasets you want to share with this community?** Feel free to [let us know on this form!](https://airtable.com/shrRgwUBU2Tv7UN7n)
 
 <br>
 
@@ -119,6 +117,4 @@ data-repo-mvp
 
 # Contact Us: 
 
-Have questions? See an issue? Want help? Don't hesitate to contact us!
-* datarepo@emersoncollective.com
-* tech_product@emersoncollective.com
+Have questions? See an issue? Want help? Don't hesitate to contact us! tech_product@emersoncollective.com
