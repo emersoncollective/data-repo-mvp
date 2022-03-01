@@ -38,7 +38,7 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 ### 1. Are you just looking for the data?
  
-See the [Data Inventory](#data-inventory) table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
+See the Data Inventory table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
  * We update select datasets as new data gets released
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
