@@ -109,9 +109,6 @@ data-repo-mvp
 ## License 
     TBD 
 
-## How to Cite Us 
-    TBD 
-
 --------------------------------
 
 # Contact Us: 
