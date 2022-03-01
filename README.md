@@ -25,11 +25,11 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 <br>
 
-**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [fill out an inquiry form!](https://airtable.com/shrRgwUBU2Tv7UN7n)
+**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [fill out an inquiry form!](https://bit.ly/data-repo-inquiry)
 
-**Do you have any code or datasets you want to share with this community?** Feel free to [fill out an inquiry form!](https://airtable.com/shrRgwUBU2Tv7UN7n)
+**Do you have any code or datasets you want to share with this community?** Feel free to [fill out an inquiry form!](https://bit.ly/data-repo-inquiry)
 
-**If you would like to request access...** [fill out an inquiry form and request access!](https://airtable.com/shrRgwUBU2Tv7UN7n) 
+**If you would like to request access...** [fill out an inquiry form and request access!](https://bit.ly/data-repo-inquiry) 
 <!--- you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any changes made to the notebooks provided by the Emerson Collective will be reflected on your account. -->
 
 <br>
