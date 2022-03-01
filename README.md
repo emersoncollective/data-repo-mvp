@@ -106,8 +106,6 @@ data-repo-mvp
 * [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
 <br>
 
-## License 
-    TBD 
 
 --------------------------------
 
