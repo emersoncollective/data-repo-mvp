@@ -25,11 +25,12 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 <br>
 
-**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [get in touch with us!](#contact-us)
+**Have any questions? Or ideas for additional datasets that could be useful?** Feel free to [fill out an inquiry form!](https://bit.ly/data-repo-inquiry)
 
-**Do you want to connect and engage with a community of trusted peers to learn from/with?** Feel free to [join our Slack Channel **TBD**!]()
+**Do you have any code or datasets you want to share with this community?** Feel free to [fill out an inquiry form!](https://bit.ly/data-repo-inquiry)
 
-**Do you have any code or datasets you want to share with this community?** Feel free to [let us know!]((#contact-us))
+**If you would like to request access...** [fill out an inquiry form and request access!](https://bit.ly/data-repo-inquiry) 
+<!--- you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any changes made to the notebooks provided by the Emerson Collective will be reflected on your account. -->
 
 <br>
 
@@ -37,7 +38,7 @@ Don't know which to use? Continue reading to learn more about which way of acces
 
 ### 1. Are you just looking for the data?
  
-See the [Data Inventory](#data-inventory) table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
+See the Data Inventory table below. The links in the **See Data** column will connect you to where the extracted data for that specific source is located. 
  * We update select datasets as new data gets released
  * Data outputs may be in the form of a single file or multiple files depending on the source. 
 
@@ -66,10 +67,6 @@ Fantastic! We have used code notebooks (Jupyter Notebooks) to write Python code 
 
 
 
-
-
-
-**If you are new to the Immigration Data Repository...** you will need to [sign-up for an account](http://34.133.178.202/hub/signup). This will create your own instance of the Data Repository, complete with copies of the code. Feel free to work within your account -- any code you run or edit will remain private, and any changes made to the notebooks provided by the Emerson Collective will be reflected on your account.
 
 
 #### **If you are new to Python, check out some resources we have compiled [here](./learn_python/).** 
@@ -109,16 +106,9 @@ data-repo-mvp
 * [Jupyter Notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
 <br>
 
-## License 
-    TBD 
-
-## How to Cite Us 
-    TBD 
 
 --------------------------------
 
 # Contact Us: 
 
-Have questions? See an issue? Want help? Don't hesitate to contact us!
-* datarepo@emersoncollective.com
-* tech_product@emersoncollective.com
+Have questions? See an issue? Want help? Don't hesitate to contact us! tech_product@emersoncollective.com
