@@ -4,9 +4,11 @@ import datetime
 import itertools
 import logging
 import logging.config
-import time
 import os
+import time
+import urllib
 from pathlib import Path
+from urllib.parse import unquote
 
 import pandas as pd
 import requests
@@ -34,6 +36,44 @@ class CBPTableauScraper:
     def __init__(self, custom_logger, args):
         self.custom_logger = custom_logger
         self.args = args
+
+    @staticmethod
+    def get_tableau_dashboard_url_from_tableau_placeholder(item):
+        """
+        Takes an item with a class of tableauPlaceholder and returns a valid url for a dashboard
+        Parameters:
+            item: Beautiful soup item with class of tableauPlaceholder
+        Returns:
+            A valid url for a Tableau dashboard
+        """
+        url = unquote(item.find("param", {"name": "host_url"})["value"]).strip("/")
+        url += (
+            "/"
+            + unquote(item.find("param", {"name": "site_root"})["value"]).strip("/")
+            + "/views"
+        )
+        url += "/" + unquote(item.find("param", {"name": "name"})["value"]).strip("/")
+        return url
+
+    def get_dashboard_urls(self):
+        # Below we take the URL of the CPB webpage, and search for tableaPlaceholder elements in the
+        # webpage background information.
+        url = "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters"
+        request = requests.get(url)  # get the URL's data
+        soup = BeautifulSoup(request.text, "html.parser")  # parse it with Beautifulsoup
+
+        # Find the tableauPlaceholder divs and get the dashboard URLs
+        print("Getting URLs")
+        urls = {}
+        for idx, item in enumerate(
+            soup.find_all("div", {"class": "tableauPlaceholder"})
+        ):
+            retrieved_url = self.get_tableau_dashboard_url_from_tableau_placeholder(
+                item
+            )
+            print(idx + 1, retrieved_url)
+            urls[idx + 1] = retrieved_url
+        return urls
 
     def get_last_modified_date(self):
         url = "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters"
@@ -79,10 +119,8 @@ class CBPTableauScraper:
         """
         Function process filters and return object of information on those filters,
         on all the combinations, columns names, and other useful information.
-
         skip_filter: is a list with column names that should be skipped, you are likley
         skipping columns because the you do not need to apply that filter.
-
         returns dictionary
         """
 
@@ -138,7 +176,6 @@ class CBPTableauScraper:
         @param all_filter_combinations: list of tuples containing all filter combinations
         @param filter_worksheet: worksheet where filters exist
         @param data_worksheet: worksheet we want to extract data from
-
         return dashboard data extracted from tableau dashboard element
         """
         failed_combination = []
@@ -202,7 +239,10 @@ class CBPTableauScraper:
 
     def run(self):
         args = self.args
-        dashboard_url = args.url
+        # Get the dashboard specific urls - they are dynamic and can change
+        urls = self.get_dashboard_urls()
+        assert len(urls) > 0, "Urls not retrieved"
+        dashboard_url = urls[int(args.dashboard_number)]
         skip_filters = eval(args.skip_filters)
         last_modified = self.get_last_modified_date()
         today = datetime.date.today().strftime("%B_%d_%Y").lower()
@@ -279,7 +319,7 @@ if __name__ == "__main__":
     # dashboard2_url = "https://publicstats.cbp.gov/t/PublicFacing/views/CBPSBOEnforcementActionsDashboardsOCTFY22/SBObyMonthDemo10935"
 
     parser = argparse.ArgumentParser(description="Which url to process")
-    parser.add_argument("--url")
+    parser.add_argument("--dashboard_number")
     parser.add_argument("--data_element")
     parser.add_argument("--skip_filters")
     parser.add_argument("--label")
