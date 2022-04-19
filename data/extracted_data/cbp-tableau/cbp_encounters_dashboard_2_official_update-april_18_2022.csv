@@ -1,0 +1,1125 @@
+Component-value,Component-alias,Demographic-value,Demographic-alias,Month (abbv)-value,Month (abbv)-alias,SUM(Encounter Count)-alias,ATTR(Demographic (copy))-alias,Citizenship Grouping,Title of Authority
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,47441,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,11397,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,6840,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,6996,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,8653,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,7830,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,5725,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,1517,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,256,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,229,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,238,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,304,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,303,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,187,Accompanied Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,1111,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,246,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,201,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,143,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,177,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,184,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,160,UC / Single Minors,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,12329,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,3863,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,1556,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,1581,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,2308,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,1782,FMUA,all,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,1239,FMUA,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,32484,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,7032,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,4854,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,5034,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,5864,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,5561,Single Adults,all,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,4139,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,1013513,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,209906,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,159054,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,147816,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,170599,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,167016,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,159122,%many-values%,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,72384,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,13921,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,11783,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,8610,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,11707,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,13745,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,12618,UC / Single Minors,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,223827,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,33955,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,25165,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,30420,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,49437,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,43282,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,41568,FMUA,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,717302,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,162030,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,122106,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,108786,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,109455,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,109989,Single Adults,all,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,104936,Single Adults,all,all
+%all%,%all%,%all%,%all%,%all%,%all%,1060954,%many-values%,all,all
+%all%,%all%,%all%,%all%,MAR,MAR,221303,%many-values%,all,all
+%all%,%all%,%all%,%all%,FEB,FEB,165894,%many-values%,all,all
+%all%,%all%,%all%,%all%,JAN,JAN,154812,%many-values%,all,all
+%all%,%all%,%all%,%all%,DEC,DEC,179252,%many-values%,all,all
+%all%,%all%,%all%,%all%,NOV,NOV,174846,%many-values%,all,all
+%all%,%all%,%all%,%all%,OCT,OCT,164847,%many-values%,all,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,34097,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,8997,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,4571,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,4806,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,6342,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,5493,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,3888,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,378,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,49,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,44,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,64,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,73,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,80,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,68,Accompanied Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,1111,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,246,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,201,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,143,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,177,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,184,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,160,UC / Single Minors,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,12329,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,3863,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,1556,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,1581,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,2308,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,1782,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,1239,FMUA,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,20279,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,4839,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,2770,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,3018,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,3784,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,3447,Single Adults,all,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,2421,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,477892,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,102757,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,68338,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,70398,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,90802,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,79165,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,66432,%many-values%,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,72379,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,13920,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,11782,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,8610,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,11706,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,13743,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,12618,UC / Single Minors,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,162632,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,26153,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,17152,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,21937,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,37570,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,31662,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,28158,FMUA,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,242881,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,62684,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,39404,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,39851,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,41526,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,33760,Single Adults,all,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,25656,Single Adults,all,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,511989,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,111754,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,72909,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,75204,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,97144,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,84658,%many-values%,all,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,70320,%many-values%,all,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,13344,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,2400,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,2269,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,2190,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,2311,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,2337,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,1837,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,1139,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,207,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,185,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,174,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,231,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,223,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,119,Accompanied Minors,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,12205,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,2193,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,2084,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,2016,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,2080,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,2114,Single Adults,all,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,1718,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,535621,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,107149,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,90716,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,77418,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,79797,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,87851,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,92690,%many-values%,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,5,UC / Single Minors,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,1,UC / Single Minors,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,1,UC / Single Minors,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1,UC / Single Minors,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,2,UC / Single Minors,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,61195,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,7802,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,8013,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,8483,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,11867,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,11620,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,13410,FMUA,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,474421,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,99346,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,82702,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,68935,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,67929,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,76229,Single Adults,all,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,79280,Single Adults,all,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,548965,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,109549,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,92985,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,79608,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,82108,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,90188,%many-values%,all,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,94527,%many-values%,all,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,646,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,152,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,149,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,108,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,117,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,78,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,42,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,8,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,1,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,1,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,1,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,4,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,1,Accompanied Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,43,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,11,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,10,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,8,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,4,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,2,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,8,UC / Single Minors,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,376,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,92,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,97,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,65,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,72,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,38,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,12,FMUA,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,219,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,48,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,41,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,34,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,37,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,38,Single Adults,El Salvador,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,21,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,49036,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,8235,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,6997,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,5700,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,8756,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,9587,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,9761,%many-values%,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,8276,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,1469,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,1129,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,942,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1342,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,1730,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,1664,UC / Single Minors,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,15490,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,1818,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1508,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,1297,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,2926,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,3837,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,4104,FMUA,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,25270,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,4948,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,4360,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,3461,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,4488,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,4020,Single Adults,El Salvador,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,3993,Single Adults,El Salvador,all
+%all%,%all%,%all%,%all%,%all%,%all%,49682,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,MAR,MAR,8387,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,FEB,FEB,7146,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,JAN,JAN,5808,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,DEC,DEC,8873,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,NOV,NOV,9665,%many-values%,El Salvador,all
+%all%,%all%,%all%,%all%,OCT,OCT,9803,%many-values%,El Salvador,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,567,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,135,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,140,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,100,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,96,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,69,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,27,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,43,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,11,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,10,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,8,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,4,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,2,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,8,UC / Single Minors,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,376,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,92,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,97,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,65,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,72,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,38,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,12,FMUA,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,148,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,32,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,33,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,27,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,20,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,29,Single Adults,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,7,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,19698,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,2951,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,2378,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,1924,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,3367,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,4545,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,4533,%many-values%,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,8275,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,1469,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,1129,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,942,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1341,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,1730,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,1664,UC / Single Minors,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,10261,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,1259,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1051,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,828,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1846,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,2621,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,2656,FMUA,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,1162,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,223,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,198,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,154,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,180,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,194,Single Adults,El Salvador,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,213,Single Adults,El Salvador,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,20265,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,3086,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,2518,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,2024,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,3463,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,4614,%many-values%,El Salvador,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,4560,%many-values%,El Salvador,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,79,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,17,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,9,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,8,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,21,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,9,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,15,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,8,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,1,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,1,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,1,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,4,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,1,Accompanied Minors,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,71,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,16,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,8,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,7,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,17,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,9,Single Adults,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,14,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,29338,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,5284,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,4619,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,3776,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,5389,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,5042,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,5228,%many-values%,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,1,UC / Single Minors,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1,UC / Single Minors,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,5229,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,559,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,457,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,469,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1080,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,1216,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,1448,FMUA,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,24108,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,4725,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,4162,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,3307,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,4308,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,3826,Single Adults,El Salvador,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,3780,Single Adults,El Salvador,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,29417,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,5301,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,4628,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,3784,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,5410,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,5051,%many-values%,El Salvador,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,5243,%many-values%,El Salvador,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,655,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,147,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,134,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,110,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,101,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,90,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,73,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,10,Accompanied Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,1,Accompanied Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,3,Accompanied Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,3,Accompanied Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,3,Accompanied Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,100,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,16,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,26,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,9,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,17,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,13,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,19,UC / Single Minors,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,252,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,73,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,66,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,51,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,25,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,23,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,14,FMUA,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,293,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,57,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,39,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,50,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,59,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,51,Single Adults,Guatemala,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,37,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,113609,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,21208,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,18073,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,13745,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,20906,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,20379,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,19298,%many-values%,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,29710,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,5494,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,4844,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,3059,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,5272,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,5990,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,5051,UC / Single Minors,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,16928,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,2291,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,2157,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,1636,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,3121,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,3589,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,4134,FMUA,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,66971,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,13423,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,11072,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,9050,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,12513,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,10800,Single Adults,Guatemala,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,10113,Single Adults,Guatemala,all
+%all%,%all%,%all%,%all%,%all%,%all%,114264,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,MAR,MAR,21355,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,FEB,FEB,18207,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,JAN,JAN,13855,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,DEC,DEC,21007,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,NOV,NOV,20469,%many-values%,Guatemala,all
+%all%,%all%,%all%,%all%,OCT,OCT,19371,%many-values%,Guatemala,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,528,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,132,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,123,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,91,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,70,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,61,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,51,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,2,Accompanied Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,1,Accompanied Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,1,Accompanied Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,100,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,16,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,26,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,9,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,17,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,13,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,19,UC / Single Minors,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,252,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,73,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,66,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,51,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,25,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,23,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,14,FMUA,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,174,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,43,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,30,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,31,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,28,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,24,Single Adults,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,18,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,35262,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,6260,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,5497,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,3616,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,6783,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,7089,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,6017,%many-values%,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,29710,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,5494,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,4844,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,3059,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,5272,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,5990,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,5051,UC / Single Minors,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,3482,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,326,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,313,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,317,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1150,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,738,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,638,FMUA,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,2070,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,440,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,340,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,240,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,361,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,361,Single Adults,Guatemala,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,328,Single Adults,Guatemala,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,35790,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,6392,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,5620,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,3707,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,6853,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,7150,%many-values%,Guatemala,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,6068,%many-values%,Guatemala,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,127,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,15,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,11,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,19,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,31,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,29,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,22,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,8,Accompanied Minors,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,1,Accompanied Minors,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,2,Accompanied Minors,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,2,Accompanied Minors,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,3,Accompanied Minors,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,119,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,14,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,9,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,19,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,31,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,27,Single Adults,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,19,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,78347,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,14948,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,12576,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,10129,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,14123,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,13290,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,13281,%many-values%,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,13446,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,1965,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1844,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,1319,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1971,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,2851,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,3496,FMUA,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,64901,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,12983,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,10732,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,8810,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,12152,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,10439,Single Adults,Guatemala,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,9785,Single Adults,Guatemala,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,78474,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,14963,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,12587,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,10148,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,14154,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,13319,%many-values%,Guatemala,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,13303,%many-values%,Guatemala,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,1730,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,504,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,386,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,285,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,285,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,188,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,82,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,35,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,13,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,10,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,3,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,8,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,1,Accompanied Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,77,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,19,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,17,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,8,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,17,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,10,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,6,UC / Single Minors,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,1097,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,334,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,261,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,183,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,181,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,104,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,34,FMUA,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,521,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,138,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,98,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,94,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,84,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,66,Single Adults,Honduras,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,41,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,100529,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,15559,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,13692,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,11726,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,17856,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,19918,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,21778,%many-values%,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,17180,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,3388,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,2760,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,1943,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,2585,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,3364,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,3140,UC / Single Minors,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,36968,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,3680,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,3610,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,3644,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,7014,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,8601,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,10419,FMUA,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,46381,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,8491,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,7322,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,6139,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,8257,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,7953,Single Adults,Honduras,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,8219,Single Adults,Honduras,all
+%all%,%all%,%all%,%all%,%all%,%all%,102259,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,MAR,MAR,16063,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,FEB,FEB,14078,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,JAN,JAN,12011,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,DEC,DEC,18141,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,NOV,NOV,20106,%many-values%,Honduras,all
+%all%,%all%,%all%,%all%,OCT,OCT,21860,%many-values%,Honduras,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,1598,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,470,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,361,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,272,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,268,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,163,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,64,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,8,Accompanied Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,1,Accompanied Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,3,Accompanied Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,4,Accompanied Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,77,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,19,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,17,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,8,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,17,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,10,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,6,UC / Single Minors,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,1097,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,334,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,261,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,183,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,181,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,104,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,34,FMUA,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,416,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,116,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,80,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,81,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,70,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,45,Single Adults,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,24,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,32638,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,4848,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,3914,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,2892,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,5746,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,7302,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,7936,%many-values%,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,17179,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,3388,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,2759,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,1943,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,2585,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,3364,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,3140,UC / Single Minors,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,12443,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,819,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,692,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,607,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,2625,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,3403,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,4297,FMUA,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,3016,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,641,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,463,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,342,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,536,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,535,Single Adults,Honduras,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,499,Single Adults,Honduras,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,34236,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,5318,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,4275,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,3164,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,6014,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,7465,%many-values%,Honduras,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,8000,%many-values%,Honduras,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,132,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,34,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,25,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,13,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,17,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,25,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,18,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,27,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,12,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,7,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,3,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,4,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,1,Accompanied Minors,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,105,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,22,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,18,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,13,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,14,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,21,Single Adults,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,17,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,67891,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,10711,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,9778,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,8834,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,12110,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,12616,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,13842,%many-values%,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,1,UC / Single Minors,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,1,UC / Single Minors,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,24525,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,2861,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,2918,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,3037,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,4389,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,5198,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,6122,FMUA,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,43365,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,7850,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,6859,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,5797,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,7721,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,7418,Single Adults,Honduras,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,7720,Single Adults,Honduras,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,68023,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,10745,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,9803,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,8847,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,12127,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,12641,%many-values%,Honduras,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,13860,%many-values%,Honduras,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,27066,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,5339,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,4665,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,4643,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,4575,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,4693,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,3151,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,1379,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,216,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,204,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,221,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,280,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,280,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,178,Accompanied Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,775,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,172,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,128,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,107,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,112,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,143,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,113,UC / Single Minors,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,2163,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,420,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,322,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,384,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,430,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,447,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,160,FMUA,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,22749,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,4531,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,4011,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,3931,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,3753,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,3823,Single Adults,Mexico,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,2700,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,373719,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,82049,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,67077,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,55640,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,46901,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,59151,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,62901,%many-values%,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,13526,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,2847,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,2497,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,2053,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1783,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,2039,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,2307,UC / Single Minors,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,11110,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,2113,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1711,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,1489,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1928,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,1988,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,1881,FMUA,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,349083,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,77089,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,62869,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,52098,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,43190,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,55124,Single Adults,Mexico,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,58713,Single Adults,Mexico,all
+%all%,%all%,%all%,%all%,%all%,%all%,400785,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,MAR,MAR,87388,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,FEB,FEB,71742,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,JAN,JAN,60283,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,DEC,DEC,51476,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,NOV,NOV,63844,%many-values%,Mexico,all
+%all%,%all%,%all%,%all%,OCT,OCT,66052,%many-values%,Mexico,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,14500,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,3105,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,2506,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,2565,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,2423,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,2493,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,1408,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,349,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,41,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,38,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,62,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,69,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,73,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,66,Accompanied Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,775,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,172,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,128,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,107,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,112,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,143,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,113,UC / Single Minors,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,2163,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,420,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,322,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,384,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,430,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,447,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,160,FMUA,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,11213,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,2472,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,2018,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,2012,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,1812,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,1830,Single Adults,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,1069,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,29332,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,7637,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,5192,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,4162,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,3726,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,4178,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,4437,%many-values%,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,13523,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,2846,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,2497,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,2053,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,1783,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,2037,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,2307,UC / Single Minors,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,926,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,181,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,150,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,118,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,186,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,140,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,151,FMUA,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,14883,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,4610,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,2545,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,1991,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,1757,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,2001,Single Adults,Mexico,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,1979,Single Adults,Mexico,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,43832,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,10742,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,7698,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,6727,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,6149,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,6671,%many-values%,Mexico,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,5845,%many-values%,Mexico,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,12566,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,2234,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,2159,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,2078,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,2152,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,2200,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,1743,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,1030,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,175,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,166,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,159,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,211,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,207,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,112,Accompanied Minors,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,11536,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,2059,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,1993,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,1919,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,1941,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,1993,Single Adults,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,1631,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,344387,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,74412,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,61885,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,51478,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,43175,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,54973,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,58464,%many-values%,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,3,UC / Single Minors,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,1,UC / Single Minors,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,2,UC / Single Minors,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,10184,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,1932,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1561,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,1371,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,1742,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,1848,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,1730,FMUA,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,334200,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,72479,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,60324,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,50107,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,41433,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,53123,Single Adults,Mexico,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,56734,Single Adults,Mexico,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,356953,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,76646,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,64044,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,53556,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,45327,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,57173,%many-values%,Mexico,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,60207,%many-values%,Mexico,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,17344,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,5255,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,1506,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,1850,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,3575,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,2781,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,2377,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,85,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,25,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,11,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,16,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,17,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,12,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,4,Accompanied Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,116,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,28,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,20,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,11,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,27,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,16,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,14,UC / Single Minors,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,8441,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,2944,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,810,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,898,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,1600,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,1170,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,1019,FMUA,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,8702,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,2258,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,665,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,925,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,1931,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,1583,Single Adults,Other,all
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,1340,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,376620,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,82855,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,53215,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,61005,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,76180,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,57981,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,45384,%many-values%,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,3692,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,723,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,553,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,613,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,725,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,622,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,456,UC / Single Minors,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,143331,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,24053,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,16179,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,22354,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,34448,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,25267,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,21030,FMUA,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,229597,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,58079,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,36483,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,38038,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,41007,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,32092,Single Adults,Other,all
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,23898,Single Adults,Other,all
+%all%,%all%,%all%,%all%,%all%,%all%,393964,%many-values%,Other,all
+%all%,%all%,%all%,%all%,MAR,MAR,88110,%many-values%,Other,all
+%all%,%all%,%all%,%all%,FEB,FEB,54721,%many-values%,Other,all
+%all%,%all%,%all%,%all%,JAN,JAN,62855,%many-values%,Other,all
+%all%,%all%,%all%,%all%,DEC,DEC,79755,%many-values%,Other,all
+%all%,%all%,%all%,%all%,NOV,NOV,60762,%many-values%,Other,all
+%all%,%all%,%all%,%all%,OCT,OCT,47761,%many-values%,Other,all
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,16904,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,5155,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,1441,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,1778,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,3485,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,2707,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,2338,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,19,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,7,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,2,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,2,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,4,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,2,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,2,Accompanied Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,%all%,%all%,116,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,MAR,MAR,28,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,FEB,FEB,20,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,JAN,JAN,11,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,DEC,DEC,27,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,NOV,NOV,16,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,UC / Single Minors,UC / Single Minors,OCT,OCT,14,UC / Single Minors,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,%all%,%all%,8441,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,MAR,MAR,2944,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,FEB,FEB,810,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,JAN,JAN,898,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,DEC,DEC,1600,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,NOV,NOV,1170,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,FMUA,FMUA,OCT,OCT,1019,FMUA,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,8328,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,2176,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,609,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,867,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,1854,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,1519,Single Adults,Other,Title 8
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,1303,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,360962,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,81061,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,51357,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,57804,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,71180,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,56051,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,43509,%many-values%,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,%all%,%all%,3692,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,MAR,MAR,723,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,FEB,FEB,553,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,JAN,JAN,613,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,DEC,DEC,725,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,NOV,NOV,622,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,UC / Single Minors,UC / Single Minors,OCT,OCT,456,UC / Single Minors,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,135520,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,23568,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,14946,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,20067,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,31763,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,24760,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,20416,FMUA,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,221750,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,56770,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,35858,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,37124,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,38692,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,30669,Single Adults,Other,Title 8
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,22637,Single Adults,Other,Title 8
+%all%,%all%,%all%,%all%,%all%,%all%,377866,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,MAR,MAR,86216,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,FEB,FEB,52798,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,JAN,JAN,59582,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,DEC,DEC,74665,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,NOV,NOV,58758,%many-values%,Other,Title 8
+%all%,%all%,%all%,%all%,OCT,OCT,45847,%many-values%,Other,Title 8
+Office of Field Operations,Office of Field Operations,%all%,%all%,%all%,%all%,440,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,MAR,MAR,100,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,FEB,FEB,65,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,JAN,JAN,72,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,DEC,DEC,90,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,NOV,NOV,74,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,%all%,%all%,OCT,OCT,39,%many-values%,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,%all%,%all%,66,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,MAR,MAR,18,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,FEB,FEB,9,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,JAN,JAN,14,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,DEC,DEC,13,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,NOV,NOV,10,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Accompanied Minors,Accompanied Minors,OCT,OCT,2,Accompanied Minors,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,%all%,%all%,374,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,MAR,MAR,82,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,FEB,FEB,56,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,JAN,JAN,58,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,DEC,DEC,77,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,NOV,NOV,64,Single Adults,Other,Title 42
+Office of Field Operations,Office of Field Operations,Single Adults,Single Adults,OCT,OCT,37,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,%all%,%all%,15658,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,MAR,MAR,1794,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,FEB,FEB,1858,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,JAN,JAN,3201,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,DEC,DEC,5000,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,NOV,NOV,1930,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,%all%,%all%,OCT,OCT,1875,%many-values%,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,%all%,%all%,7811,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,MAR,MAR,485,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,FEB,FEB,1233,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,JAN,JAN,2287,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,DEC,DEC,2685,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,NOV,NOV,507,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,FMUA,FMUA,OCT,OCT,614,FMUA,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,%all%,%all%,7847,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,MAR,MAR,1309,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,FEB,FEB,625,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,JAN,JAN,914,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,DEC,DEC,2315,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,NOV,NOV,1423,Single Adults,Other,Title 42
+U.S. Border Patrol,U.S. Border Patrol,Single Adults,Single Adults,OCT,OCT,1261,Single Adults,Other,Title 42
+%all%,%all%,%all%,%all%,%all%,%all%,16098,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,MAR,MAR,1894,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,FEB,FEB,1923,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,JAN,JAN,3273,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,DEC,DEC,5090,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,NOV,NOV,2004,%many-values%,Other,Title 42
+%all%,%all%,%all%,%all%,OCT,OCT,1914,%many-values%,Other,Title 42
