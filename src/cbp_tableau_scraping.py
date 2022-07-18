@@ -19,7 +19,10 @@ import logger
 from utils import are_files_identical, get_date_from_filename
 
 logging.config.dictConfig(
-    {"version": 1, "disable_existing_loggers": True,}
+    {
+        "version": 1,
+        "disable_existing_loggers": True,
+    }
 )
 
 OUTPUT_DIRECTORY = Path("./data/extracted_data/cbp-tableau")
@@ -72,30 +75,29 @@ class CBPTableauScraper:
             urls[idx + 1] = retrieved_url
         return urls
 
-
-def get_last_modified_date():
-    url = "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters"
-    page = requests.get(url)
-    html = page.text
-    soup = BeautifulSoup(html, "lxml")
-    lmd = (
-        [
-            i
-            for i in soup.find_all("div", {"class": "last-modified-date"})[0]
-            if "last modified" in i.text.lower()
-        ][0]
-        .find_next("div")
-        .text
-    )
-    for child in lmd.children:
-        if "Last Modified" in child.text:
-            last_modified_date = (
-                child.text.lower().replace("last modified:", "").strip()
+        def get_last_modified_date():
+            url = "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters"
+            page = requests.get(url)
+            html = page.text
+            soup = BeautifulSoup(html, "lxml")
+            lmd = (
+                [
+                    i
+                    for i in soup.find_all("div", {"class": "last-modified-date"})[0]
+                    if "last modified" in i.text.lower()
+                ][0]
+                .find_next("div")
+                .text
             )
-            break
-    if last_modified_date is None:
-        raise ValueError("No last modified date")
-    return "_".join(last_modified_date.lower().replace(",", "").split(" "))
+            for child in lmd.children:
+                if "Last Modified" in child.text:
+                    last_modified_date = (
+                        child.text.lower().replace("last modified:", "").strip()
+                    )
+                    break
+            if last_modified_date is None:
+                raise ValueError("No last modified date")
+            return "_".join(last_modified_date.lower().replace(",", "").split(" "))
 
     def find_filters_worksheet(self, ts):
 
@@ -277,7 +279,9 @@ def get_last_modified_date():
         filters_ws, _ = self.find_filters_worksheet(ts)
 
         filter_data = self.unpack_filter_information(
-            ts, filters_ws, skip_filter=skip_filters,
+            ts,
+            filters_ws,
+            skip_filter=skip_filters,
         )
 
         dataset, failed_combination = self.get_dashboard_data(
